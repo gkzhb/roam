@@ -13,9 +13,11 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "pnpx quartz build --serve -d docs",
-    "check": "tsc --noEmit && pnpx prettier . --check",
-    "format": "pnpx prettier . --write",
+    "build": "pnpm run quartz build -d ~/Obsidian/trial-vault",
+    "dev": "pnpm run quartz build --serve -d ~/Obsidian/trial-vault",
+    "docs": "pnpm quartz build --serve -d docs",
+    "check": "tsc --noEmit && pnpm prettier . --check",
+    "format": "pnpm prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
