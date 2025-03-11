@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "gkzhb 花园",
-    pageTitleSuffix: "KMS",
+    pageTitleSuffix: " - gkzhb 的知识花园",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
