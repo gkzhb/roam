@@ -13,7 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "pnpm run quartz build -d ~/Obsidian/trial-vault",
+    "build": "pnpm run quartz build -d ~/Obsidian/trial-vault && cp ./vercel.json ./public/",
     "dev": "pnpm run quartz build --serve -d ~/Obsidian/trial-vault",
     "docs": "pnpm quartz build --serve -d docs",
     "check": "tsc --noEmit && pnpm prettier . --check",
