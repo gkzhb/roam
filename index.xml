@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>gkzhb 花园</title>
+      <link>https://roam.gkzhb.top</link>
+      <description>Last 10 notes on gkzhb 花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>MCP 应用</title>
+    <link>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%BA%94%E7%94%A8</link>
+    <guid>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%BA%94%E7%94%A8</guid>
+    <description>tags: Area.AI应用 对话应用 5ire nanbingxyz/5ire 界面简洁，功能体验有待进一步打磨 Cherry Studio CherryHQ/cherry-studio 截至 2025-03-13 ，MCP 功能还在 beta 测试中，未正式发布.</description>
+    <pubDate>Thu, 13 Mar 2025 11:46:40 GMT</pubDate>
+  </item><item>
+    <title>Area.AI应用</title>
+    <link>https://roam.gkzhb.top/02-Areas/024-AI/Area.AI%E5%BA%94%E7%94%A8</link>
+    <guid>https://roam.gkzhb.top/02-Areas/024-AI/Area.AI%E5%BA%94%E7%94%A8</guid>
+    <description></description>
+    <pubDate>Tue, 11 Mar 2025 18:05:00 GMT</pubDate>
+  </item><item>
+    <title>AI辅助编程</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B</guid>
+    <description>tags: Area.AI应用 简介 借助 LLM 帮助编写代码，根据用户参与程度，可大概划分为： 半自动 Copilot：LLM 辅助用户编程，需要用户把持方向 自动化 Agent：LLM 尽可能地替代用户进行操作，避免人工介入 二者之间的界限是连续的，没有绝对的边界。 Vibe Coding：只用自然语言修改代码，接受所有 ...</description>
+    <pubDate>Tue, 11 Mar 2025 17:36:02 GMT</pubDate>
+  </item><item>
+    <title>AI Chrome 插件</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/AI-Chrome-%E6%8F%92%E4%BB%B6</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/AI-Chrome-%E6%8F%92%E4%BB%B6</guid>
+    <description>tags: Area.AI应用 Page Assist 利用 LLM 与网页进行对话 开源： n4ze3m/page-assist 支持使用自定义 OpenAPI 支持 RAG 侧边栏对话交互 Syncia Royal-lobster/Syncia: 🌟 Chrome extension that enables users to chat with ...</description>
+    <pubDate>Tue, 11 Mar 2025 16:59:59 GMT</pubDate>
+  </item><item>
+    <title>Obsidian 笔记公开发布</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/Obsidian/Obsidian-%E7%AC%94%E8%AE%B0%E5%85%AC%E5%BC%80%E5%8F%91%E5%B8%83</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/Obsidian/Obsidian-%E7%AC%94%E8%AE%B0%E5%85%AC%E5%BC%80%E5%8F%91%E5%B8%83</guid>
+    <description>参考 My Quartz + Obsidian Note Publishing Setup 文章从 0 到 1 搭建起来 Quartz v4 网站项目，并借助 DeepSeek V3 帮我生成了一个本地执行的部署脚本 deploy.sh 来将前端产物推送到 gh-pages 分支上。 本站使用 Vercel 进行托管。 ...</description>
+    <pubDate>Mon, 10 Mar 2025 18:34:34 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://roam.gkzhb.top/</link>
+    <guid>https://roam.gkzhb.top/</guid>
+    <description>访问我的博客主页？ 浏览本站时你可能会遇到链接 404 的问题，这些链接可能是我未公开出来的笔记，敬请谅解。 本站使用 jackyzha0/quartz 部署公开我的部分 Obsidian 笔记，网站代码仓库见 gkzhb/roam 多一点点的相关细节可参考 Obsidian 笔记公开发布.</description>
+    <pubDate>Mon, 10 Mar 2025 17:52:05 GMT</pubDate>
+  </item><item>
+    <title>Area.知识管理</title>
+    <link>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/Area.%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86</link>
+    <guid>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/Area.%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86</guid>
+    <description>tags:.</description>
+    <pubDate>Sun, 09 Mar 2025 19:17:48 GMT</pubDate>
+  </item><item>
+    <title>PARA 系统</title>
+    <link>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/PARA-%E7%B3%BB%E7%BB%9F</link>
+    <guid>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/PARA-%E7%B3%BB%E7%BB%9F</guid>
+    <description>tags: Area.知识管理.</description>
+    <pubDate>Sun, 09 Mar 2025 19:17:02 GMT</pubDate>
+  </item><item>
+    <title>张玄化</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/%E5%BC%A0%E7%8E%84%E5%8C%96</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/%E5%BC%A0%E7%8E%84%E5%8C%96</guid>
+    <description></description>
+    <pubDate>Sun, 09 Mar 2025 18:53:21 GMT</pubDate>
+  </item><item>
+    <title>南怀瑾</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/%E5%8D%97%E6%80%80%E7%91%BE</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/%E5%8D%97%E6%80%80%E7%91%BE</guid>
+    <description></description>
+    <pubDate>Sun, 09 Mar 2025 18:44:45 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
