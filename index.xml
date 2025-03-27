@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>gkzhb 花园</title>
+      <link>https://roam.gkzhb.top</link>
+      <description>Last 10 notes on gkzhb 花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Obsidian</title>
+    <link>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/Obsidian</link>
+    <guid>https://roam.gkzhb.top/02-Areas/023-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/Obsidian</guid>
+    <description> tags: Area.知识管理 .</description>
+    <pubDate>Thu, 27 Mar 2025 17:59:08 GMT</pubDate>
+  </item><item>
+    <title>Res.AI App</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Res.AI-App</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Res.AI-App</guid>
+    <description>收录 AI 相关应用及工具.</description>
+    <pubDate>Thu, 27 Mar 2025 17:52:46 GMT</pubDate>
+  </item><item>
+    <title>Cherry Studio</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Cherry-Studio</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Cherry-Studio</guid>
+    <description> tags: Area.AI应用, Res.AI App source: github.com/CherryHQ/cherry-studio PC 端对话软件，支持多种 LLM 提供商，支持 MCP 工具.</description>
+    <pubDate>Thu, 27 Mar 2025 17:52:23 GMT</pubDate>
+  </item><item>
+    <title>AI 知识构建</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI-%E7%9F%A5%E8%AF%86%E6%9E%84%E5%BB%BA</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI-%E7%9F%A5%E8%AF%86%E6%9E%84%E5%BB%BA</guid>
+    <description>tags: Area.知识管理, Area.AI应用 和 AI 共同记录笔记 2025-03-27 看到一个很有意思的 MCP 工具 ：basicmachines-co/basic-memory 在 Cherry Studio 中配置 MCP 工具后，可以直接通过和 LLM 对话了解知识，并指示 LLM 记录笔记： 对话了解知识 记录笔记 笔记记录之后可以直接用 ...</description>
+    <pubDate>Thu, 27 Mar 2025 17:48:09 GMT</pubDate>
+  </item><item>
+    <title>Aider</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Aider</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/Aider</guid>
+    <description> tags: Area.AI应用, Res.AI App source: github.com/Aider-AI/aider AI 辅助编程，官方项目只提供了 TUI （命令行文本界面）.</description>
+    <pubDate>Thu, 27 Mar 2025 06:15:54 GMT</pubDate>
+  </item><item>
+    <title>Aider Related</title>
+    <link>https://roam.gkzhb.top/01-Projects/Aider-Composer/Aider-Related</link>
+    <guid>https://roam.gkzhb.top/01-Projects/Aider-Composer/Aider-Related</guid>
+    <description>...</description>
+    <pubDate>Thu, 27 Mar 2025 06:13:27 GMT</pubDate>
+  </item><item>
+    <title>MCP 工具</title>
+    <link>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%B7%A5%E5%85%B7</link>
+    <guid>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%B7%A5%E5%85%B7</guid>
+    <description>...</description>
+    <pubDate>Wed, 19 Mar 2025 19:01:42 GMT</pubDate>
+  </item><item>
+    <title>MCP 应用</title>
+    <link>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%BA%94%E7%94%A8</link>
+    <guid>https://roam.gkzhb.top/02-Areas/024-AI/MCP-%E5%BA%94%E7%94%A8</guid>
+    <description> tags: Area.AI应用 对话应用 5ire nanbingxyz/5ire 界面简洁，功能体验有待进一步打磨 Cherry Studio（推荐） CherryHQ/cherry-studio 支持配置 MCP 工具，可查看工具调用及返回的具体参数.</description>
+    <pubDate>Thu, 13 Mar 2025 11:46:40 GMT</pubDate>
+  </item><item>
+    <title>Area.AI应用</title>
+    <link>https://roam.gkzhb.top/02-Areas/024-AI/Area.AI%E5%BA%94%E7%94%A8</link>
+    <guid>https://roam.gkzhb.top/02-Areas/024-AI/Area.AI%E5%BA%94%E7%94%A8</guid>
+    <description>关于 AI 在实际生活或生产中的应用.</description>
+    <pubDate>Tue, 11 Mar 2025 18:05:00 GMT</pubDate>
+  </item><item>
+    <title>AI辅助编程</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E7%BC%96%E7%A8%8B/AI%E5%BA%94%E7%94%A8/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B</guid>
+    <description>tags: Area.AI应用 简介 借助 LLM 帮助编写代码，根据用户参与程度，可大概划分为： 半自动 Copilot：LLM 辅助用户编程，需要用户把持方向 自动化 Agent：LLM 尽可能地替代用户进行操作，避免人工介入 二者之间的界限是连续的，没有绝对的边界。 Vibe Coding：只用自然语言修改代码，接受所有 ...</description>
+    <pubDate>Tue, 11 Mar 2025 17:36:02 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
