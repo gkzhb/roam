@@ -3,68 +3,68 @@
     <channel>
       <title>gkzhb 花园</title>
       <link>https://roam.gkzhb.top</link>
-      <description>Last 10 notes on gkzhb 花园</description>
+      <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>为什么大多数人无法精通任何事物 | 你始终无法变得真正优秀的原因_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250607004728</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250607004728</guid>
-    <description>唯一可能失败的方式就是在达成目标之前放弃。只要你坚持投入时间，你终将到达顶峰。所以，与其让基于恐惧的习惯影响你的行动，不如重塑你的大脑，养成新的习惯。新的常规。新的应对困境的后备反应。, 视频播放量 57270、弹幕量 61、点赞数 1771、投硬币枚数 389、收藏人数 6239、转发人数 219, 视频作者 超级个体之路, ...</description>
-    <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
+    <title>Dataview DQL 使用</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/07/3.1a1h1</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/07/3.1a1h1</guid>
+    <description>常用场景 结合 front matter title 插件使用 每个笔记生成随机时间戳作为文件名，使用 yaml 属性 title 作为标题。 所以需要处理两种情况： 有 title 属性的笔记，将其值作为笔记名称 没有 title 属性的笔记，文件名作为笔记名称 dql 如下： table without id link(file.link, choice(title, title, link)) as 笔记 limit 10.</description>
+    <pubDate>Sun, 06 Jul 2025 14:42:02 GMT</pubDate>
   </item><item>
-    <title>unnecessary rerenders of every row and cell in examples/react/editable-data · Issue #4794 · TanStack/table</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250606191440</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250606191440</guid>
-    <description>Describe the bug Every time one cell is edited in the examples/react/editable-data example, the entire table rerenders. If a user wants to render a large amount of rows, this strategy will start getting slow.</description>
-    <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+    <title>Yes, Claude Code can decompile itself. Here&#039;s the source code.</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153249</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153249</guid>
+    <description>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.An “oh fuck” moment in timeOver the Christmas break I’ve been critically looking</description>
+    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>2025-W23灵感记录</title>
-    <link>https://roam.gkzhb.top/03-Resources/B-%E7%81%B5%E6%84%9F/2025/2025-W23%E7%81%B5%E6%84%9F%E8%AE%B0%E5%BD%95</link>
-    <guid>https://roam.gkzhb.top/03-Resources/B-%E7%81%B5%E6%84%9F/2025/2025-W23%E7%81%B5%E6%84%9F%E8%AE%B0%E5%BD%95</guid>
-    <description>2025-06-02 星期一 2025-06-03 星期二 2025-06-04 星期三 2025-06-05 星期四 编程的过程是创造和熵减交替迭代 2025-06-06 星期五 2025-06-07 星期六 2025-06-08 星期日.</description>
-    <pubDate>Thu, 05 Jun 2025 05:28:46 GMT</pubDate>
+    <title>Claude Code</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153837</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153837</guid>
+    <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - anthropics/claude-code</description>
+    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>李飞飞空间智能独角兽开源底层技术！AI生成3D世界在所有设备流畅运行空间智能的“着色器”来了</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250605150857</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250605150857</guid>
-    <description>空间智能的“着色器”来了.</description>
-    <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+    <title>Roo Code</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705154023</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705154023</guid>
+    <description>Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. - RooCodeInc/Roo-Code</description>
+    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Res.Git</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/20250529015534</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/20250529015534</guid>
-    <description> tags:: 常见用例 重命名用户 git rebase -i --root -x \ &quot;git commit --amend --author &#039;John Doe &lt;johndoe@example.com&gt;&#039; -CHEAD&quot;.</description>
-    <pubDate>Wed, 28 May 2025 17:55:34 GMT</pubDate>
+    <title>Res.Context Engineering 介绍资料</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250702094634</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250702094634</guid>
+    <description>扩展阅读 Cognition | Dont Build Multi-Agents Context Engineering 名词来源？ Andrej Karpathy on X: “+1 for “context engineering” over “prompt engineering” 12-factor-agents Own your context window · humanlayer/12-factor-agents Context Engineering for Agents Context engineering .</description>
+    <pubDate>Wed, 02 Jul 2025 13:46:34 GMT</pubDate>
   </item><item>
-    <title>Proj.开发 MCP Server for Crawl4AI</title>
-    <link>https://roam.gkzhb.top/01-Projects/20250529012920</link>
-    <guid>https://roam.gkzhb.top/01-Projects/20250529012920</guid>
-    <description>...</description>
-    <pubDate>Wed, 28 May 2025 17:29:20 GMT</pubDate>
+    <title>Context Engineering</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/07/1.1c1</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/07/1.1c1</guid>
+    <description>背景 在 2025.6 人们逐渐喜欢使用 Context Engineering 来描述和 AI 对话时构造提示词的过程。 曾经人们使用 Prompt Engineering 来描述调整提示词过程，但是 Prompt Engineering 通常是描述在 LLM 无法稳定生成回答时使用提示词技巧来提升 AI 的表现。 在使用 AI Agent 产品时，用户经常做的操作是将各处的文本信息整合到与 agent 对话的输入框中，从而让 AI 了解详细的上下文背景信息，做出期望的行为。这个过程被称为 Context Engineering。 更多阅读 Res.Context Engineering 介...</description>
+    <pubDate>Wed, 02 Jul 2025 13:24:13 GMT</pubDate>
   </item><item>
-    <title>stagewise-io/stagewise</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250527111842</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250527111842</guid>
-    <description>What if Cursor, Github Copilot and Windsurf could actually interact with your browser? 💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting ...</description>
-    <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+    <title>bikeread/dify_wechat_plugin: 微信公众号对接助手</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627142139</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627142139</guid>
+    <description> tags:: source:: bikeread/dify_wechat_plugin: 微信公众号对接助手 未调试通，对话后 dify 能收到请求，但是微信中无法看到任何回答 微信限制个人不能开通 微信认证，导致无法启用 对话服务-发送消息-客服接口 功能。.</description>
+    <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>2025-W22灵感记录</title>
-    <link>https://roam.gkzhb.top/03-Resources/B-%E7%81%B5%E6%84%9F/2025/2025-W22%E7%81%B5%E6%84%9F%E8%AE%B0%E5%BD%95</link>
-    <guid>https://roam.gkzhb.top/03-Resources/B-%E7%81%B5%E6%84%9F/2025/2025-W22%E7%81%B5%E6%84%9F%E8%AE%B0%E5%BD%95</guid>
-    <description>2025-05-26 星期一 AI 翻译智能体，有状态的，存储翻译词表，并支持根据用户反馈优化 2025-05-27 星期二 2025-05-28 星期三 2025-05-29 星期四 2025-05-30 星期五 2025-05-31 星期六 2025-06-01 星期日.</description>
-    <pubDate>Mon, 26 May 2025 05:55:43 GMT</pubDate>
+    <title>Magic UI</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627153811</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627153811</guid>
+    <description>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. - magicuidesign/magicui</description>
+    <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>AI 填补了不同自然语言导致的信息隔阂</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/05/20250526014335</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/05/20250526014335</guid>
-    <description>来源 看到 天工智能体 阅读 GitHub Medium 上的英文信息，最后产出了完整的中文报告。 突然联想到曾经我们说在国内不会用 Google 的程序员不是好的程序员。这个问题体现的一点就是不同语言导致的信息隔阂，限制国内部分程序员学习了解技术。 因此看到 AI 跨语言总结报告，才突然发现这种语言导致的信息隔阂已经可以被打破了。 ...</description>
-    <pubDate>Mon, 26 May 2025 05:43:35 GMT</pubDate>
+    <title>2025.6 PromptPerfect 产品调研</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250626075126</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250626075126</guid>
+    <description> tags:: PromptPerfect 功能模块 侧边菜单 Chat Chat 模块分为两部分，一侧（对话侧）是模拟真实使用场景和 LLM 对话，另一侧（优化侧）是对话交互来优化 LLM 提示词。 通过优化侧的对话，会不断细化提示词的内容细节及内容的方向。 优化提示词的效果体验下来不是很好。 Auto-tune 直接优化提示词，提供 2 个优化后的版本，每个版本及原始提示词展示 LLM 回答效果 Diversify optimization: Multiple algorithms will be applied to the original prompt to generate div...</description>
+    <pubDate>Thu, 26 Jun 2025 11:51:26 GMT</pubDate>
   </item><item>
-    <title>SkyworkAI/DeepResearchAgent</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250526143424</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250526143424</guid>
-    <description>...</description>
-    <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+    <title>心理疗愈</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/06/4.1b</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/06/4.1b</guid>
+    <description></description>
+    <pubDate>Thu, 26 Jun 2025 05:41:41 GMT</pubDate>
   </item>
     </channel>
   </rss>
