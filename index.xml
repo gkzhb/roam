@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Dataview DQL 使用</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/07/3.1a1h1</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/07/3.1a1h1</guid>
-    <description>常用场景 结合 front matter title 插件使用 每个笔记生成随机时间戳作为文件名，使用 yaml 属性 title 作为标题。 所以需要处理两种情况： 有 title 属性的笔记，将其值作为笔记名称 没有 title 属性的笔记，文件名作为笔记名称 dql 如下： table without id link(file.link, choice(title, title, link)) as 笔记 limit 10.</description>
-    <pubDate>Sun, 06 Jul 2025 14:42:02 GMT</pubDate>
+    <title>使用 LiteLLM 代理 Claude Code 使用的 AI 模型</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/08/20250812123240</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/08/20250812123240</guid>
+    <description> tags:: Claude Code Claude Code 可以通过环境变量 ANTHROPIC_BASE_URL 来设置所使用的 ANTHROPIC 协议的 OpenAPI 。所以我们想在 Claude Code 中使用其它的 AI 模型比如 Kimi K2、DeepSeek V3 等，可以通过构造对应的 ANTHROPIC API 来实现。 另外 LiteLLM 作为 LLM API 网关，兼容了很多模型提供商，这给了我们很大的选择空间。 我使用火山引擎方舟的 OpenAPI 来使用 Kimi 和 DeepSeek 模型。下面介绍如何配置运行 LiteLLM 并在 Claude Cod...</description>
+    <pubDate>Mon, 11 Aug 2025 16:32:40 GMT</pubDate>
   </item><item>
-    <title>Yes, Claude Code can decompile itself. Here&#039;s the source code.</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153249</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153249</guid>
-    <description>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.An “oh fuck” moment in timeOver the Christmas break I’ve been critically looking</description>
-    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
+    <title>Obsidian Tasks Plugin</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1a1k</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1a1k</guid>
+    <description> doc:: Tasks User Guide 简介 专注于管理待办，包括编辑、复杂查询视图功能。 查询视图方面与 Dataview 的功能类似。.</description>
+    <pubDate>Sun, 10 Aug 2025 08:25:39 GMT</pubDate>
   </item><item>
-    <title>Claude Code</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153837</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705153837</guid>
-    <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - anthropics/claude-code</description>
-    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
+    <title>对谈武志红：一旦恢复主体性，人生会开挂！高敏感自救，2招找回主体性！_哔哩哔哩_bilibili</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/08/20250810170155</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/08/20250810170155</guid>
+    <description>如果你不擅长处理人际关系，有点讨好型人格，很在意外界评价和他人对你的看法，不知道自己喜欢什么想要什么，这条视频能给你答案！欢迎来到《三多•贵人介绍所》，我将邀请100位我钦佩的贵人，通过和他们的对谈，为处于焦虑迷茫的年轻人找到勇气和方向！本期嘉宾：武志红——北大心理学硕士、资深心理咨询师、畅销书作家本期话题：1.原生家庭如何影响一个人的主体性？2.如何重建主体性？3.有大成就的人，性格上有什么共性, 视频播放量 64960、弹幕量 118、点赞数 3078、投硬币枚数 1160、收藏人数 5219、转发人数 965, 视频作者 三多同学-, 作者简介 复旦本科&研究生｜东方卫视记者｜环球旅行达人合作：xuduo.art@qq.com，相关视频：对谈武志红：25岁后必须知道的恋爱婚姻真相！别让错误认知害了你！，“性高潮”会让你加速衰老和死亡？——没人告诉你快感的代价（双语配音），武志红：成为你自己（2020 · 全90讲），人生建议，远离这种人，好脾气的人，为什么无法拥有好的亲密关系？【武志红】，杨景媛事件也许会全面激发中国的性别矛盾，一个人要真正成熟，得先学会让父母“难受”【武志红】，窦文涛谈社保，社保为谁服务，大冰有一个特长听声辨人，这人刚一说话他的脸色就变了，全程高能，年薪60万的人《如何给领导订机票》（详细解读版）</description>
+    <pubDate>Sat, 09 Aug 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Roo Code</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705154023</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250705154023</guid>
-    <description>Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. - RooCodeInc/Roo-Code</description>
-    <pubDate>Fri, 04 Jul 2025 16:00:00 GMT</pubDate>
+    <title>LLM 现状局限性 2025</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1b3</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1b3</guid>
+    <description>模型参数在训练后完全固化，缺少推理时记忆能力（较短期记忆）及推理时/后再学习能力（长期记忆及智慧）。 因为缺少推理时记忆能力，工程上在打各种补丁，例如 Context Engineering 需要管理处理一个任务中的历史操作记录。 因为缺少推理后再学习能力，实际场景应用时，面对效果欠佳的情况，只能借助后训练、微调及提示词工程来优化效果。对于个性化的场景（eg 面向个人的场景）成本较高且不够灵活简单高效。 解决方案： 推理时记忆：模型中引入动态权重，比如 RAG 领域有研究将部分权重专门用于存储外部知识库信息权重，是在训练后推理前可动态替换的 推理时/后再训练机制：支持更频繁地动态更新模型，使 ...</description>
+    <pubDate>Sat, 09 Aug 2025 07:15:20 GMT</pubDate>
   </item><item>
-    <title>Res.Context Engineering 介绍资料</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250702094634</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/07/20250702094634</guid>
-    <description>扩展阅读 Cognition | Dont Build Multi-Agents Context Engineering 名词来源？ Andrej Karpathy on X: “+1 for “context engineering” over “prompt engineering” 12-factor-agents Own your context window · humanlayer/12-factor-agents Context Engineering for Agents Context engineering .</description>
-    <pubDate>Wed, 02 Jul 2025 13:46:34 GMT</pubDate>
+    <title>BoT 与 Context Engineering 对比</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2a</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2a</guid>
+    <description>目标关注点差异： Context Engineering 核心关注于具体任务场景中，上下文信息的收集与提供 BoT 关注于面对不同任务涉及的解决经验存在差异 .</description>
+    <pubDate>Sat, 09 Aug 2025 07:05:50 GMT</pubDate>
   </item><item>
-    <title>Context Engineering</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/07/1.1c1</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/07/1.1c1</guid>
-    <description>背景 在 2025.6 人们逐渐喜欢使用 Context Engineering 来描述和 AI 对话时构造提示词的过程。 曾经人们使用 Prompt Engineering 来描述调整提示词过程，但是 Prompt Engineering 通常是描述在 LLM 无法稳定生成回答时使用提示词技巧来提升 AI 的表现。 在使用 AI Agent 产品时，用户经常做的操作是将各处的文本信息整合到与 agent 对话的输入框中，从而让 AI 了解详细的上下文背景信息，做出期望的行为。这个过程被称为 Context Engineering。 更多阅读 Res.Context Engineering 介...</description>
-    <pubDate>Wed, 02 Jul 2025 13:24:13 GMT</pubDate>
+    <title>动态提示词系统</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2</guid>
+    <description> Quote 灵感来源于 Buffer of Thoughts 论文，因此用其缩写 BoT 指代“动态提示词系统” 由于用户的具体问题具体场景是精细化的、上下文相关的，我们无法为所有的情境都人工设计出不同的最佳提示词。 因此我们需要一套系统化的设计，能根据用户的具体上下文和诉求，自动生成与之匹配的提示词（包含经验知识），从而让 LLM 能按照这些经验知识执行，获得可预期的结果。 核心点： 细分任务场景的自动识别和扩展 给定场景生成经验总结（前置依赖需要收集场景问题数据） 经验自我迭代优化（基于负面 case 结果优化） 细节层面： 场景和经验的存储及检索数据结构设计 提示词组装方式，涉及多个场...</description>
+    <pubDate>Sat, 09 Aug 2025 06:44:32 GMT</pubDate>
   </item><item>
-    <title>bikeread/dify_wechat_plugin: 微信公众号对接助手</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627142139</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627142139</guid>
-    <description> tags:: source:: bikeread/dify_wechat_plugin: 微信公众号对接助手 未调试通，对话后 dify 能收到请求，但是微信中无法看到任何回答 微信限制个人不能开通 微信认证，导致无法启用 对话服务-发送消息-客服接口 功能。.</description>
-    <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
+    <title>在 Obsidian 中实践 Antinet</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b3</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b3</guid>
+    <description>Proj.Antinet Zettelkasten 阅读 阅读后，在 Obsidian 中进行实践操作 为什么作为主卡片而不是 PARA 项目？ Antinet 中记录所有思想内容，不允许做修改变动，所以未来可以回溯过去的所有决策。 而 PARA 笔记可随意调整修改，会丢失历史记录。 作为主卡片单独记录 PARA or Antinet 如何选择 因为已经存在 Zettelkasten Navigation Obsidian 插件，所以以其可用功能为出发点来设计 Antinet 笔记格式。 文件目录结构 05-ZettelNotes : 存放主卡片，添加时使用 Obsidian QuickAdd...</description>
+    <pubDate>Sat, 09 Aug 2025 06:27:31 GMT</pubDate>
   </item><item>
-    <title>Magic UI</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627153811</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250627153811</guid>
-    <description>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. - magicuidesign/magicui</description>
-    <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
+    <title>Antinet 笔记法的目标</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b1</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b1</guid>
+    <description>Antinet 卡片盒笔记法的最终目标是不断发展我们的思考范围，让我们能运用这些卡片里的知识。 实现这一最终目标的途径是通过不断温习卡片，来增强我们大脑的记忆和回想能力。 同时为了不断扩展思考范围发现新的知识关联，需要借助关键词，将不同领域的卡片做横向的贯穿，从而让我们的笔记形成复杂的网状联系。.</description>
+    <pubDate>Sat, 09 Aug 2025 06:21:12 GMT</pubDate>
   </item><item>
-    <title>2025.6 PromptPerfect 产品调研</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250626075126</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/06/20250626075126</guid>
-    <description> tags:: PromptPerfect 功能模块 侧边菜单 Chat Chat 模块分为两部分，一侧（对话侧）是模拟真实使用场景和 LLM 对话，另一侧（优化侧）是对话交互来优化 LLM 提示词。 通过优化侧的对话，会不断细化提示词的内容细节及内容的方向。 优化提示词的效果体验下来不是很好。 Auto-tune 直接优化提示词，提供 2 个优化后的版本，每个版本及原始提示词展示 LLM 回答效果 Diversify optimization: Multiple algorithms will be applied to the original prompt to generate div...</description>
-    <pubDate>Thu, 26 Jun 2025 11:51:26 GMT</pubDate>
+    <title>2025 AGUI 主流应用现状</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c1</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c1</guid>
+    <description>目前主流 Agent UI 是二维平面 GUI 形态，按照 Agent 功能划分为两大类产品交互： 以对话、解决问题为中心的全自动化 Agent 以探索、灵活性为中心的画板工作流 Agent UI 中可划分为对话面板 + 工具/状态面板。 对话面板处理用户输入信息及展示历史对话及产物内容。 工具状态面板展示产物内容的详情预览.</description>
+    <pubDate>Sat, 09 Aug 2025 05:42:07 GMT</pubDate>
   </item><item>
-    <title>心理疗愈</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/06/4.1b</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/06/4.1b</guid>
-    <description></description>
-    <pubDate>Thu, 26 Jun 2025 05:41:41 GMT</pubDate>
+    <title>Agent UI 框架设计</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c</guid>
+    <description>探索 AI Agent 领域未来 UI 的发展方向，寻找最理想最合理的人机交互界面。 后续笔记中简称 Agent UI 为 AGUI.</description>
+    <pubDate>Sat, 09 Aug 2025 05:34:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
