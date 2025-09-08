@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>使用 LiteLLM 代理 Claude Code 使用的 AI 模型</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/08/20250812123240</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/08/20250812123240</guid>
-    <description> tags:: Claude Code Claude Code 可以通过环境变量 ANTHROPIC_BASE_URL 来设置所使用的 ANTHROPIC 协议的 OpenAPI 。所以我们想在 Claude Code 中使用其它的 AI 模型比如 Kimi K2、DeepSeek V3 等，可以通过构造对应的 ANTHROPIC API 来实现。 另外 LiteLLM 作为 LLM API 网关，兼容了很多模型提供商，这给了我们很大的选择空间。 我使用火山引擎方舟的 OpenAPI 来使用 Kimi 和 DeepSeek 模型。下面介绍如何配置运行 LiteLLM 并在 Claude Cod...</description>
-    <pubDate>Mon, 11 Aug 2025 16:32:40 GMT</pubDate>
+    <title>3.1b6e1</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6e1</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6e1</guid>
+    <description>做笔记的过程比留下笔记的结果更重要。 做笔记会锻炼塑造我们的大脑，让思维发生成长。这是比笔记本身更重要的。.</description>
+    <pubDate>Mon, 08 Sep 2025 19:07:34 GMT</pubDate>
   </item><item>
-    <title>Obsidian Tasks Plugin</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1a1k</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1a1k</guid>
-    <description> doc:: Tasks User Guide 简介 专注于管理待办，包括编辑、复杂查询视图功能。 查询视图方面与 Dataview 的功能类似。.</description>
-    <pubDate>Sun, 10 Aug 2025 08:25:39 GMT</pubDate>
+    <title>3.1b6f</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6f</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6f</guid>
+    <description>笔记卡片中存在很多用不到的，是正常现象，不用灰心丧气，你正在不断积累知识，也在不断锻炼你的大脑，锻炼你的心智。 记录 Antinet 是一项值得长期坚持的习惯。 另外要坚持做改写笔记（reformulation notes），用你自己的声音重新表述作者的原话。 虽然这很费劲，但是这是在使用费曼学习法训练自己深入理解内容，会提升你的阅读能力。未来做反思笔记（reflection notes）时依赖这一方法打下的基础。.</description>
+    <pubDate>Mon, 08 Sep 2025 18:59:06 GMT</pubDate>
   </item><item>
-    <title>对谈武志红：一旦恢复主体性，人生会开挂！高敏感自救，2招找回主体性！_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/08/20250810170155</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/08/20250810170155</guid>
-    <description>如果你不擅长处理人际关系，有点讨好型人格，很在意外界评价和他人对你的看法，不知道自己喜欢什么想要什么，这条视频能给你答案！欢迎来到《三多•贵人介绍所》，我将邀请100位我钦佩的贵人，通过和他们的对谈，为处于焦虑迷茫的年轻人找到勇气和方向！本期嘉宾：武志红——北大心理学硕士、资深心理咨询师、畅销书作家本期话题：1.原生家庭如何影响一个人的主体性？2.如何重建主体性？3.有大成就的人，性格上有什么共性, 视频播放量 64960、弹幕量 118、点赞数 3078、投硬币枚数 1160、收藏人数 5219、转发人数 965, 视频作者 三多同学-, 作者简介 复旦本科&研究生｜东方卫视记者｜环球旅行达人合作：xuduo.art@qq.com，相关视频：对谈武志红：25岁后必须知道的恋爱婚姻真相！别让错误认知害了你！，“性高潮”会让你加速衰老和死亡？——没人告诉你快感的代价（双语配音），武志红：成为你自己（2020 · 全90讲），人生建议，远离这种人，好脾气的人，为什么无法拥有好的亲密关系？【武志红】，杨景媛事件也许会全面激发中国的性别矛盾，一个人要真正成熟，得先学会让父母“难受”【武志红】，窦文涛谈社保，社保为谁服务，大冰有一个特长听声辨人，这人刚一说话他的脸色就变了，全程高能，年薪60万的人《如何给领导订机票》（详细解读版）</description>
-    <pubDate>Sat, 09 Aug 2025 16:00:00 GMT</pubDate>
+    <title>3.1b6e</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6e</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6e</guid>
+    <description>笔记只是达成目的的手段，而非目的本身。要看清楚主要矛盾。 Antinet 笔记看似混乱也没有关系。 笔记是你思维发展的观察记录，是思维的轨迹，也是一种思维“草稿”。 你真正产出内容时（比如写发布分享的文章、写论文）才需要去追求完美，不断打磨它们。 m.</description>
+    <pubDate>Mon, 08 Sep 2025 18:52:42 GMT</pubDate>
   </item><item>
-    <title>LLM 现状局限性 2025</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1b3</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1b3</guid>
-    <description>模型参数在训练后完全固化，缺少推理时记忆能力（较短期记忆）及推理时/后再学习能力（长期记忆及智慧）。 因为缺少推理时记忆能力，工程上在打各种补丁，例如 Context Engineering 需要管理处理一个任务中的历史操作记录。 因为缺少推理后再学习能力，实际场景应用时，面对效果欠佳的情况，只能借助后训练、微调及提示词工程来优化效果。对于个性化的场景（eg 面向个人的场景）成本较高且不够灵活简单高效。 解决方案： 推理时记忆：模型中引入动态权重，比如 RAG 领域有研究将部分权重专门用于存储外部知识库信息权重，是在训练后推理前可动态替换的 推理时/后再训练机制：支持更频繁地动态更新模型，使 ...</description>
-    <pubDate>Sat, 09 Aug 2025 07:15:20 GMT</pubDate>
+    <title>3.1b6d</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6d</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6d</guid>
+    <description> 注意 不要将项目笔记放置在 Antinet 之外 在项目过程中产生的思考和经验，也需要作为主卡片放置在 Antinet 之中。 这样在未来的项目中，它们才能派上用场，而且你的 Antinet 会随之不断成长。.</description>
+    <pubDate>Mon, 08 Sep 2025 18:40:57 GMT</pubDate>
   </item><item>
-    <title>BoT 与 Context Engineering 对比</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2a</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2a</guid>
-    <description>目标关注点差异： Context Engineering 核心关注于具体任务场景中，上下文信息的收集与提供 BoT 关注于面对不同任务涉及的解决经验存在差异 .</description>
-    <pubDate>Sat, 09 Aug 2025 07:05:50 GMT</pubDate>
+    <title>3.1b6c</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6c</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6c</guid>
+    <description>一张卡片笔记类比一个大脑中的神经元。 笔记是思想和信息精简的产物，它负责整合并传递信息，类似于神经元的功能。 在 Antinet 中，卡片之间相互关联（或位置邻近），是与大脑思考的模式相类似的。 神经学科学验证：一段记忆是由一大群神经元之间的相互作用共同表征。.</description>
+    <pubDate>Mon, 08 Sep 2025 18:26:37 GMT</pubDate>
   </item><item>
-    <title>动态提示词系统</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1c2</guid>
-    <description> Quote 灵感来源于 Buffer of Thoughts 论文，因此用其缩写 BoT 指代“动态提示词系统” 由于用户的具体问题具体场景是精细化的、上下文相关的，我们无法为所有的情境都人工设计出不同的最佳提示词。 因此我们需要一套系统化的设计，能根据用户的具体上下文和诉求，自动生成与之匹配的提示词（包含经验知识），从而让 LLM 能按照这些经验知识执行，获得可预期的结果。 核心点： 细分任务场景的自动识别和扩展 给定场景生成经验总结（前置依赖需要收集场景问题数据） 经验自我迭代优化（基于负面 case 结果优化） 细节层面： 场景和经验的存储及检索数据结构设计 提示词组装方式，涉及多个场...</description>
-    <pubDate>Sat, 09 Aug 2025 06:44:32 GMT</pubDate>
+    <title>3.1b6b</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6b</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6b</guid>
+    <description> 误区 不要尝试用简短的标题来概括笔记内容 概括标题会削弱笔记的信息丰富程度，叶片大小的笔记内容已经很精简了，再精简成标题会丢失核心信息，让你对卡片内容产生错误的认知或遗失掉细节的沟壑。 保留细节沟壑后：你需要通过思维锻炼，逐渐掌握更高的思维复杂度，从而能创造出更多更深刻的思想内容。.</description>
+    <pubDate>Mon, 08 Sep 2025 18:19:46 GMT</pubDate>
   </item><item>
-    <title>在 Obsidian 中实践 Antinet</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b3</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b3</guid>
-    <description>Proj.Antinet Zettelkasten 阅读 阅读后，在 Obsidian 中进行实践操作 为什么作为主卡片而不是 PARA 项目？ Antinet 中记录所有思想内容，不允许做修改变动，所以未来可以回溯过去的所有决策。 而 PARA 笔记可随意调整修改，会丢失历史记录。 作为主卡片单独记录 PARA or Antinet 如何选择 因为已经存在 Zettelkasten Navigation Obsidian 插件，所以以其可用功能为出发点来设计 Antinet 笔记格式。 文件目录结构 05-ZettelNotes : 存放主卡片，添加时使用 Obsidian QuickAdd...</description>
-    <pubDate>Sat, 09 Aug 2025 06:27:31 GMT</pubDate>
+    <title>创造新笔记卡片的过程</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6</guid>
+    <description>对应 Proj.Antinet Zettelkasten 阅读 书中第十五章 创造（Creation）的内容.</description>
+    <pubDate>Mon, 08 Sep 2025 18:10:20 GMT</pubDate>
   </item><item>
-    <title>Antinet 笔记法的目标</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b1</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/3.1b1</guid>
-    <description>Antinet 卡片盒笔记法的最终目标是不断发展我们的思考范围，让我们能运用这些卡片里的知识。 实现这一最终目标的途径是通过不断温习卡片，来增强我们大脑的记忆和回想能力。 同时为了不断扩展思考范围发现新的知识关联，需要借助关键词，将不同领域的卡片做横向的贯穿，从而让我们的笔记形成复杂的网状联系。.</description>
-    <pubDate>Sat, 09 Aug 2025 06:21:12 GMT</pubDate>
+    <title>阅读材料的方法</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b5</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b5</guid>
+    <description>见 如何提取：记录文献卡.</description>
+    <pubDate>Mon, 08 Sep 2025 18:08:50 GMT</pubDate>
   </item><item>
-    <title>2025 AGUI 主流应用现状</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c1</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c1</guid>
-    <description>目前主流 Agent UI 是二维平面 GUI 形态，按照 Agent 功能划分为两大类产品交互： 以对话、解决问题为中心的全自动化 Agent 以探索、灵活性为中心的画板工作流 Agent UI 中可划分为对话面板 + 工具/状态面板。 对话面板处理用户输入信息及展示历史对话及产物内容。 工具状态面板展示产物内容的详情预览.</description>
-    <pubDate>Sat, 09 Aug 2025 05:42:07 GMT</pubDate>
+    <title>思维受两大法则支配</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6a</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/3.1b6a</guid>
+    <description> 邻近性：经常一起被体验的观念，会在人的头脑中形成紧密联结。 相似性（类似）：当两个想法彼此相似时，与第一个想法紧密关联的事物，会自动与后面的想法产生关联。 .</description>
+    <pubDate>Mon, 08 Sep 2025 17:56:58 GMT</pubDate>
   </item><item>
-    <title>Agent UI 框架设计</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/08/1.1a2c</guid>
-    <description>探索 AI Agent 领域未来 UI 的发展方向，寻找最理想最合理的人机交互界面。 后续笔记中简称 Agent UI 为 AGUI.</description>
-    <pubDate>Sat, 09 Aug 2025 05:34:39 GMT</pubDate>
+    <title>如何坚持发展一个项目，把项目做起来</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/09/4.1c</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/09/4.1c</guid>
+    <description>背景 在反思自己为什么没有持之以恒地做一个（软件）项目，做出点东西。 思考 觉得自己缺乏项目规划，没有确定一个明确的目标，并日砌一块砖地坚持去发展。.</description>
+    <pubDate>Mon, 08 Sep 2025 17:30:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
