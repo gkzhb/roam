@@ -13,8 +13,8 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "pnpm run quartz build -d ~/Obsidian/trial-vault && cp ./vercel.json ./public/",
-    "dev": "pnpm run quartz build --serve -d ~/Obsidian/trial-vault --port 8980",
+    "build": "pnpm run quartz build -d ~/Obsidian/trial-vault --concurrency=8 && cp ./vercel.json ./public/",
+    "dev": "pnpm run quartz build --serve -d ~/Obsidian/trial-vault --port 8980 --concurrency=8",
     "deploy": "./deploy.sh",
     "sync": "pnpm run build && pnpm run deploy",
     "docs": "pnpm quartz build --serve -d docs",
