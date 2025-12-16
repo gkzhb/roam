@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>OpenSpec</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251016195926</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251016195926</guid>
-    <description>Spec-driven development for AI coding assistants. Contribute to Fission-AI/OpenSpec development by creating an account on GitHub.</description>
-    <pubDate>Wed, 15 Oct 2025 16:00:00 GMT</pubDate>
+    <title>Res.从“炼金术”到“自动化工厂”：AI 开发的两场关键变革</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216091746</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216091746</guid>
+    <description> tags:: Context Engineering 前导 我们正处在 AI 应用工程的黎明时分。一方面，大语言模型（LLM）以前所未有的力量，为软件开发注入了强大的动能；但另一方面，我们驾驭这股力量的方式，却常常显得原始而笨拙。许多开发者发现自己陷入了“提示炼金术”的怪圈——通过反复调试和堆砌提示词，祈祷模型能稳定输出期望的结果。这种方式不仅效率低下，而且极度脆弱，难以构建可靠、可扩展的 AI 应用。 幸运的是，变革的浪潮已经涌现。行业正在从依赖个人技艺的“炼金术”，转向追求系统化、工程化的“自动化工厂”模式。本文将聚焦于两场至关重要的变革：规范驱动编程（Spec-Driven Devel...</description>
+    <pubDate>Tue, 16 Dec 2025 13:17:46 GMT</pubDate>
   </item><item>
-    <title>告别微调！斯坦福提出Agentic上下文工程</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251016191459</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251016191459</guid>
-    <description> tags:: source:: 告别微调！斯坦福提出Agentic上下文工程 核心亮点 Agentic Context Engineering 构建了一套经验吸收积累和遗忘的流程。 核心思想 旨在将上下文从一个静态的“摘要”转变为一本动态演进、内容详尽的“战术手册”，从而让语言模型能够高效、低成本地自我改进。 Open: Pasted image 20251016192218.png 其它.</description>
-    <pubDate>Wed, 15 Oct 2025 16:00:00 GMT</pubDate>
+    <title>Aegra</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216211121</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216211121</guid>
+    <description>Open source LangGraph Platform alternative - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure. - ibbybuilds/aegra</description>
+    <pubDate>Mon, 15 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>递归语言模型登场！MIT华人新作爆火，扩展模型上下文便宜又简单</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251016194708</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251016194708</guid>
-    <description>超长上下文窗口打破退化，随着大模型无限进步</description>
-    <pubDate>Wed, 15 Oct 2025 16:00:00 GMT</pubDate>
+    <title>时间规划及回顾</title>
+    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/12/3.1a2d</link>
+    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/12/3.1a2d</guid>
+    <description>时间记录 每天事情记录在日记笔记 🗓️ 今日记录 标题下，通过无序列表记录，例如： - 14:00-15:30 开会 - 18:00-19:00 吃饭 使用 Big Calendar 插件查看每日时间记录 时间规划 日常规划事项也写在日记中，记录在 TODO 待办 标题下，使用无序列表或待办格式记录，例如： - [ ] 去健身 [startTime:: 17:00] [endTime:: 18:00] - 吃饭 [startTime:: 18:00] [endTime:: 19:00] 使用 Full Calendar 插件查看规划事项 注意事项 此处时间规划为简单事件，项目中的事件统一存放...</description>
+    <pubDate>Fri, 12 Dec 2025 18:44:59 GMT</pubDate>
   </item><item>
-    <title>Res.棕色尘埃2相关网站</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251011035713</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251011035713</guid>
-    <description> tags:: 攻略网站：棕色尘埃2wiki官网_棕色尘埃2图鉴|GameKee 推荐入门教程： 棕色尘埃2棕色尘埃2从入坑到入土v25.10.10_棕色尘埃2wiki|GameKee.</description>
-    <pubDate>Fri, 10 Oct 2025 19:57:13 GMT</pubDate>
+    <title>Crawl4AI LLM Context Builder</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212025448</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212025448</guid>
+    <description> tags:: Context Engineering source:: Crawl4AI LLM Context Builder 核心亮点 按模块拆分上下文内容，而且每个模块内可以选择是否包含各个组成部分 组成部分： memory: what reasoning: how &amp; why examples: show me code 其它.</description>
+    <pubDate>Thu, 11 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Res.轨迹球设备软件</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251011031334</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251011031334</guid>
-    <description> tags:: todo.外设 最近 2025-10-09 在淘宝上花了 500+ 元买了个 Kensington SlimBlade Pro 轨迹球，替代鼠标和触控板来使用。 常用工作设备是 MBP，使用 macOS。因此下面介绍 macOS 的光标控制工具软件。 硬件设备能力介绍 中间是轨迹球，周围有四个按键，从左下角开始逆时针顺序，默认功能依次是：鼠标左键、鼠标右键、返回、鼠标中键。 设备没有板载内存的定制化能力，只能使用操作系统中的软件来自定义按键功能等。 首次体验上来说，感觉球有些重，按键声音较大，且上下不易触发按键，在中间更容易触发。 macOS 光标软件 Mac Mouse Fi...</description>
-    <pubDate>Fri, 10 Oct 2025 19:13:34 GMT</pubDate>
+    <title>AI Coding 原理浅析（三）- 浅谈不做预训练下 Agent 优化的一些思路</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212143712</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212143712</guid>
+    <description>ByteTech</description>
+    <pubDate>Thu, 11 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>casey/just</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251010005534</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251010005534</guid>
-    <description>🤖 Just a command runner. Contribute to casey/just development by creating an account on GitHub.</description>
-    <pubDate>Thu, 09 Oct 2025 16:00:00 GMT</pubDate>
+    <title>sandbox 环境对 Agent 的意义及重要性</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251211024935</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251211024935</guid>
+    <description>sandbox 沙盒环境：提供文件系统及文件的读、写、编辑、搜索能力 让 Agent 自主处理存储任务的中间信息，存储到文件中，甚至可以让其在沙盒环境中执行自定义代码 重要性有哪些？.</description>
+    <pubDate>Thu, 11 Dec 2025 06:49:35 GMT</pubDate>
   </item><item>
-    <title>【中英+文稿】如果日历区块法对ADHD不管用 | 试试这些更有效的方法_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251010014545</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/10/20251010014545</guid>
-    <description>中英对照文稿请在图文置顶动态找!你是否因为日历规划法对你无效而感到自己是个“效率失败者”？别担心，这并不全是你的问题！对于ADHD（注意力缺陷多动障碍）群体来说，大脑运作方式本就不同，僵化的时间管理系统往往适得其反。  视频探讨了传统时间管理法（如日历区块划分）为何常与神经多样性大脑“水土不服”，并分享了更适合这类思维模式的效率技巧：  **核心观点**  - 过度规划反而会加剧ADHD者的执行压, 视频播放量 4747、弹幕量 10、点赞数 212、投硬币枚数 42、收藏人数 536、转发人数 18, 视频作者 超级个体之路, 作者简介 分享时间管理、高效生产力与创造力的实用技巧，帮助你突破自我限制，发掘潜力。，相关视频：ADHD都来写这个morning page，有奇效，一分钟体验ADHD的感官世界，失控、分心、多动，你有ADHD吗？ 为什么ADHD确诊即救赎？，为什么跟ADHD讲话时会觉得对方呆呆的，甚至犯厌蠢症？，adhd｜世界上大部分的学习法根本就不适合我们，【大脑去性化】永久停止自慰后，身体和大脑会发生什么？ | Psych2Go 中英字幕 1080P，所有ADHD都有智力代偿？，Ali Abdaal - 找回人生掌控感的第一步：反向操纵多巴胺💥戒瘾、拯救无力感，ADHD孩子的一天，【中英+文稿】自学者最常犯的最大错误 | 如何避免这一致命错误</description>
-    <pubDate>Thu, 09 Oct 2025 16:00:00 GMT</pubDate>
+    <title>为什么你的资讯总是慢半拍？2025年，我是如何用 AI 获取硅谷一手情报的_哔哩哔哩_bilibili</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251211012314</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251211012314</guid>
+    <description>✨核心AI情报助理:Filo Mail : www.filomail.com/download/refer/SHEN输入兑换码：SHEN领取90天 Filo Mail Plus 会员-----------------------------------🔥“情报源”清单 (建议收藏):第一层：行业脉搏📱 TLDR (科技全览): tldr.tech/🤖 The , 视频播放量 20223、弹幕量 83、点赞数 1058、投硬币枚数 493、收藏人数 1990、转发人数 162, 视频作者 神烦老狗, 作者简介 y z~    合作VX 备注产品名: LAOGOU717，相关视频：迄今最恐怖的手机，前端最严厉的父亲 - gemini3，一台你不敢用的手机，AI时代下，如何放大自己的能力到10倍甚至百倍，当你删除一行看起来没用的代码，我摊牌了，我的文案都是拿AI这样写的...【NotebookLM完整攻略】，影视飓风的 AI 高能片段，是我做的。【万字复盘！AIGC 制作幕后】，【油管百万播放】 我们尚未准备好迎接超级智能丨《AI 2027》，黄仁勋首次上乔罗根播客！150分钟完整版| 2025.12.4，苹果液态玻璃（Liquid Glass）设计师离职</description>
+    <pubDate>Wed, 10 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>K.AI Agent 实践</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023919</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023919</guid>
-    <description> tags:: AI Agent, AI 应用 .</description>
-    <pubDate>Wed, 08 Oct 2025 18:39:19 GMT</pubDate>
+    <title>新Kiro有多强？30人18个月的项目，6人76天干完｜亚马逊云科技发布三大前沿Agents_哔哩哔哩_bilibili</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251210025202</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251210025202</guid>
+    <description>2025 亚马逊云科技 re:Invent 发布三大 Frontier Agent，覆盖开发、安全、运维全流程。最震撼的案例：亚马逊内部用 Kiro，30人18个月的项目，6人76天干完，效率提升10倍+。这期视频带你了解：- Kiro autonomous agent 怎么做到过夜写代码？- 为什么很多 Agent 用不起来？Agent Memory 如何解决？- 200美元抵扣金，Kiro P, 视频播放量 51035、弹幕量 61、点赞数 2287、投硬币枚数 62、收藏人数 861、转发人数 91, 视频作者 AI进化论-花生, 作者简介 AppStore付费榜Top1「小猫补光灯」app开发者。，相关视频：【基德】教你只花10 分钟做一个自己的游戏！！，前端最严厉的父亲 - gemini3，Kiro AI无限续杯！一键重置机器码+自动号池，彻底实现AI编程token自由，不要构建多agent系统:精读cognition《Don't Build Multi-Agents》，AI时代下，如何放大自己的能力到10倍甚至百倍，影视飓风的 AI 高能片段，是我做的。【万字复盘！AIGC 制作幕后】，实测MiniMax M2 + Cursor：长任务不崩、项目稳稳做完，爽到起飞！，我试用了Kiro：这可能是我第一次想抛弃Cursor的一天，🚀开发者必看：Claude Code最佳省钱攻略！告别昂贵订阅，这才是AI编程的正确打开方式，🚀还在手动整理文档喂给Claude Code？Skill Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude Skills！开发效率倍增！</description>
+    <pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Browser Use</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023132</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023132</guid>
-    <description> tags:: AI 应用 通过代码（或 AI）控制浏览器，实现自动化操作。 项目列表 browser-use .</description>
-    <pubDate>Wed, 08 Oct 2025 18:31:32 GMT</pubDate>
+    <title>🔥🧑🤖 Human-in-the-Loop漫谈与实践</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251209172831</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251209172831</guid>
+    <description>ByteTech</description>
+    <pubDate>Mon, 08 Dec 2025 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Res.</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023119</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009023119</guid>
-    <description> tags:: .</description>
-    <pubDate>Wed, 08 Oct 2025 18:31:19 GMT</pubDate>
+    <title>Res.Win11装系统</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251206020203</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251206020203</guid>
+    <description> tags:: 流程 使用 Ventoy 启动 winPE，安装 win11 系统镜像。 重启后进入引导页面，使用 shift+F10 打开 cmd 窗口，输入以下命令： start ms-cxh:localonly 启动 win10 版本的配置窗口，填写账号信息完成之后即可直接进入桌面。 这样可以直接跳过连接网络、更新系统等等漫长的流程。 参考链接 new Windows 11 setup - how to bypass 45 minutes of waiting for updates to install : r/techsupport .</description>
+    <pubDate>Fri, 05 Dec 2025 18:02:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
