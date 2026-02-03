@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>分享文章视图</title>
-    <link>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/PublicViews/20251216093149</link>
-    <guid>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/PublicViews/20251216093149</guid>
-    <description> NoteCreatedModifiedRes.从“炼金术”到“自动化工厂”：AI 开发的两场关键变革2025-12-16 21:17:462025-12-16 21:23:19Res.探讨 Context Engineering 在编程中的本质2025-12-03 22:39:292025-12-04 13:54:37使用 LiteLLM 代理 Claude Code 使用的 AI 模型2025-08-12 00:32:402025-08-12 12:04:36MCP Server 动态配置代理2025-08-08 22:01:432025-08-09 13:47:47AI 编程应用 - 二...</description>
-    <pubDate>Tue, 16 Dec 2025 13:31:49 GMT</pubDate>
+    <title>Task.Agent 系统初版设计</title>
+    <link>https://roam.gkzhb.top/01-Projects/011-Tasks/2026/02/20260204021451</link>
+    <guid>https://roam.gkzhb.top/01-Projects/011-Tasks/2026/02/20260204021451</guid>
+    <description>Proj.Agent 动态提示词工程 系统边界 初版系统不考虑 Agent system prompt 在会话过程中动态调整的功能。 UI 设计 用户输入 消息内容通过飞书机器人、网页端发送消息，甚至 opencode TUI 对话 工作目录位置 对于飞书机器人和网页端消息，工作目录位置如何选择？ 暂时写死为 ~/workspaces/sessions/&lt;date:YYYYMMDD-HHmmss&gt;/ 系统输出 最终执行结果消息内容通过机器人回复，或者网页中展示的形式呈现。 效果评估 网页端可添加按钮及评论、评分。 会话完成后可自动触发评估 Agent 进行评分。 debug 调试会...</description>
+    <pubDate>Tue, 03 Feb 2026 18:15:05 GMT</pubDate>
   </item><item>
-    <title>Res.从“炼金术”到“自动化工厂”：AI 开发的两场关键变革</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216091746</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216091746</guid>
-    <description> tags:: Context Engineering 前导 我们正处在 AI 应用工程的黎明时分。一方面，大语言模型（LLM）以前所未有的力量，为软件开发注入了强大的动能；但另一方面，我们驾驭这股力量的方式，却常常显得原始而笨拙。许多开发者发现自己陷入了“提示炼金术”的怪圈——通过反复调试和堆砌提示词，祈祷模型能稳定输出期望的结果。这种方式不仅效率低下，而且极度脆弱，难以构建可靠、可扩展的 AI 应用。 幸运的是，变革的浪潮已经涌现。行业正在从依赖个人技艺的“炼金术”，转向追求系统化、工程化的“自动化工厂”模式。本文将聚焦于两场至关重要的变革：规范驱动编程（Spec-Driven Devel...</description>
-    <pubDate>Tue, 16 Dec 2025 13:17:46 GMT</pubDate>
+    <title>OpenClaw</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260204025053</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260204025053</guid>
+    <description>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</description>
+    <pubDate>Tue, 03 Feb 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Aegra</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216211121</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216211121</guid>
-    <description>Open source LangGraph Platform alternative - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure. - ibbybuilds/aegra</description>
-    <pubDate>Mon, 15 Dec 2025 16:00:00 GMT</pubDate>
+    <title>超级索尼子</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260202025643</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260202025643</guid>
+    <description>超级索尼子（そにアニ -SUPER SONICO THE ANIMATION-，Soni-Ani：Super Sonico the Animation）是由日本动画公司WHITE FOX制作的电视动画作品，于2014年1月6日播放，全12话。现正就读大学的超级索尼子，除了是个大学生，也担当游戏角色及从事写真偶像的工作，另外她还跟富士见铃、绵拔风璃一同组成了少女三人乐团「第一宇宙速度」并在其中担任主唱兼吉他手，从事音乐方面的活动，性格努力又坦率正直的她，认真的度过属於她的每一天。</description>
+    <pubDate>Sun, 01 Feb 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>时间规划及回顾</title>
-    <link>https://roam.gkzhb.top/05-ZettelNotes/2025/12/3.1a2d</link>
-    <guid>https://roam.gkzhb.top/05-ZettelNotes/2025/12/3.1a2d</guid>
-    <description>时间记录 每天事情记录在日记笔记 🗓️ 今日记录 标题下，通过无序列表记录，例如： - 14:00-15:30 开会 - 18:00-19:00 吃饭 使用 Big Calendar 插件查看每日时间记录 时间规划 日常规划事项也写在日记中，记录在 TODO 待办 标题下，使用无序列表或待办格式记录，例如： - [ ] 去健身 [startTime:: 17:00] [endTime:: 18:00] - 吃饭 [startTime:: 18:00] [endTime:: 19:00] 使用 Full Calendar 插件查看规划事项 注意事项 此处时间规划为简单事件，项目中的事件统一存放...</description>
-    <pubDate>Fri, 12 Dec 2025 18:44:59 GMT</pubDate>
+    <title>Spec.目录划分规范</title>
+    <link>https://roam.gkzhb.top/12-Specs/20260201041846</link>
+    <guid>https://roam.gkzhb.top/12-Specs/20260201041846</guid>
+    <description>基本原则 目标一：优化文件列表性能 优化操作系统的文件系统性能及 Obsidian 文件列表的性能及可交互性 定义原则： 避免某个目录下出现上千个文件，出现文件无止境地膨胀 常用手段是使用创建日期目录划分，比如 2025/12/ 下存放 2025 年 12 月创建的笔记（使用 QuickAdd 插件可以实现） 目标二：便于通过目录寻找模块下笔记 让常用的笔记模块易于访问和使用 定义原则： 目录层级保持较低的嵌套，避免文件路径过长 为了以固定顺序排列一级目录，使用数字前缀命名，比如 00-视图/ 将不常用笔记模块组合放到统一目录下，避免一级目录数量膨胀 笔记模板配置，插件配置等笔记，放在 Z-e...</description>
+    <pubDate>Sun, 01 Feb 2026 08:18:46 GMT</pubDate>
   </item><item>
-    <title>Crawl4AI LLM Context Builder</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212025448</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212025448</guid>
-    <description> tags:: Context Engineering source:: Crawl4AI LLM Context Builder 核心亮点 按模块拆分上下文内容，而且每个模块内可以选择是否包含各个组成部分 组成部分： memory: what reasoning: how &amp; why examples: show me code 其它.</description>
-    <pubDate>Thu, 11 Dec 2025 16:00:00 GMT</pubDate>
+    <title>Spec.Bases 视图规范</title>
+    <link>https://roam.gkzhb.top/12-Specs/20260201035931</link>
+    <guid>https://roam.gkzhb.top/12-Specs/20260201035931</guid>
+    <description>Bases 规范 Tip 插件创建的 Bases 视图可以不遵循以下原则。 文件名：使用 db.</description>
+    <pubDate>Sun, 01 Feb 2026 07:59:31 GMT</pubDate>
   </item><item>
-    <title>AI Coding 原理浅析（三）- 浅谈不做预训练下 Agent 优化的一些思路</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212143712</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212143712</guid>
-    <description>ByteTech</description>
-    <pubDate>Thu, 11 Dec 2025 16:00:00 GMT</pubDate>
+    <title>Spec.全局规范</title>
+    <link>https://roam.gkzhb.top/12-Specs/20260201035414</link>
+    <guid>https://roam.gkzhb.top/12-Specs/20260201035414</guid>
+    <description>定义整个笔记仓库都遵循的规范原则。 属性定义 title: string 定义笔记名称（可选），缺省时默认使用文件名作为笔记名称 archived: boolean 将过时笔记标记为归档状态，同时笔记名称添加字母 Z 前缀，使其在列表排序中靠后 publish: boolean 定义笔记是否发布到 web 网站上可被公开查看 type: string 笔记的实体类型，用于定义笔记对应到某种实体，比如人或自媒体 persion ，影视作品等 index: string 树状排序序号，使用数字+字母的组合，相同序号前缀表示相同的树路径 避免出现连续双数字或双字母的情况，如果出现这种情况说明树的划分...</description>
+    <pubDate>Sun, 01 Feb 2026 07:54:14 GMT</pubDate>
   </item><item>
-    <title>sandbox 环境对 Agent 的意义及重要性</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251211024935</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251211024935</guid>
-    <description>sandbox 沙盒环境：提供文件系统及文件的读、写、编辑、搜索能力 让 Agent 自主处理存储任务的中间信息，存储到文件中，甚至可以让其在沙盒环境中执行自定义代码 重要性有哪些？.</description>
-    <pubDate>Thu, 11 Dec 2025 06:49:35 GMT</pubDate>
+    <title>Spec.</title>
+    <link>https://roam.gkzhb.top/Z-extras/templates/spec-%E6%A8%A1%E6%9D%BF</link>
+    <guid>https://roam.gkzhb.top/Z-extras/templates/spec-%E6%A8%A1%E6%9D%BF</guid>
+    <description></description>
+    <pubDate>Sun, 01 Feb 2026 07:52:49 GMT</pubDate>
   </item><item>
-    <title>为什么你的资讯总是慢半拍？2025年，我是如何用 AI 获取硅谷一手情报的_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251211012314</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251211012314</guid>
-    <description>✨核心AI情报助理:Filo Mail : www.filomail.com/download/refer/SHEN输入兑换码：SHEN领取90天 Filo Mail Plus 会员-----------------------------------🔥“情报源”清单 (建议收藏):第一层：行业脉搏📱 TLDR (科技全览): tldr.tech/🤖 The , 视频播放量 20223、弹幕量 83、点赞数 1058、投硬币枚数 493、收藏人数 1990、转发人数 162, 视频作者 神烦老狗, 作者简介 y z~    合作VX 备注产品名: LAOGOU717，相关视频：迄今最恐怖的手机，前端最严厉的父亲 - gemini3，一台你不敢用的手机，AI时代下，如何放大自己的能力到10倍甚至百倍，当你删除一行看起来没用的代码，我摊牌了，我的文案都是拿AI这样写的...【NotebookLM完整攻略】，影视飓风的 AI 高能片段，是我做的。【万字复盘！AIGC 制作幕后】，【油管百万播放】 我们尚未准备好迎接超级智能丨《AI 2027》，黄仁勋首次上乔罗根播客！150分钟完整版| 2025.12.4，苹果液态玻璃（Liquid Glass）设计师离职</description>
-    <pubDate>Wed, 10 Dec 2025 16:00:00 GMT</pubDate>
+    <title>Spec.Obsidian 笔记规范</title>
+    <link>https://roam.gkzhb.top/12-Specs/20260201184140</link>
+    <guid>https://roam.gkzhb.top/12-Specs/20260201184140</guid>
+    <description>[[dyn.menu]] 记录本仓库的笔记格式规范。 所有规范笔记使用 spec 标签，放在 12-Specs/ 目录下。 规范概览 Transclude of db.specs.base.</description>
+    <pubDate>Sun, 01 Feb 2026 07:26:10 GMT</pubDate>
   </item><item>
-    <title>新Kiro有多强？30人18个月的项目，6人76天干完｜亚马逊云科技发布三大前沿Agents_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251210025202</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251210025202</guid>
-    <description>2025 亚马逊云科技 re:Invent 发布三大 Frontier Agent，覆盖开发、安全、运维全流程。最震撼的案例：亚马逊内部用 Kiro，30人18个月的项目，6人76天干完，效率提升10倍+。这期视频带你了解：- Kiro autonomous agent 怎么做到过夜写代码？- 为什么很多 Agent 用不起来？Agent Memory 如何解决？- 200美元抵扣金，Kiro P, 视频播放量 51035、弹幕量 61、点赞数 2287、投硬币枚数 62、收藏人数 861、转发人数 91, 视频作者 AI进化论-花生, 作者简介 AppStore付费榜Top1「小猫补光灯」app开发者。，相关视频：【基德】教你只花10 分钟做一个自己的游戏！！，前端最严厉的父亲 - gemini3，Kiro AI无限续杯！一键重置机器码+自动号池，彻底实现AI编程token自由，不要构建多agent系统:精读cognition《Don't Build Multi-Agents》，AI时代下，如何放大自己的能力到10倍甚至百倍，影视飓风的 AI 高能片段，是我做的。【万字复盘！AIGC 制作幕后】，实测MiniMax M2 + Cursor：长任务不崩、项目稳稳做完，爽到起飞！，我试用了Kiro：这可能是我第一次想抛弃Cursor的一天，🚀开发者必看：Claude Code最佳省钱攻略！告别昂贵订阅，这才是AI编程的正确打开方式，🚀还在手动整理文档喂给Claude Code？Skill Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude Skills！开发效率倍增！</description>
-    <pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
+    <title>都2025啦，请你摆脱Flag陷阱，用系统思维悄悄实现你的年度计划！_哔哩哔哩_bilibili</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260201032407</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260201032407</guid>
+    <description>👋嘿朋友们，你是否又再满怀希望设定一年的目标，同时担心这些目标再次成为年末通通倒下的flag？那么本期视频给大家介绍5个非常简单好记好实操的策略，帮助你切切实实地落实到每天的行动，足额甚至超额完成你的目标！, 视频播放量 52125、弹幕量 42、点赞数 2489、投硬币枚数 920、收藏人数 3954、转发人数 381, 视频作者 AliAbdaal, 作者简介 Ali Abdaal官方账号剑桥大学➡️医生➡️效率达人➡️创业➡️NYT畅销书作家，相关视频：Ali Abdaal给学生的21条建议💡｜别把学习太当回事，社交焦虑，如何应对困难，被动收入，Ali Abdaal - 找回人生掌控感的第一步：反向操纵多巴胺💥戒瘾、拯救无力感，【静静教主】如何高效制定年计划｜8个步骤搞定｜手把手演示｜附模版，Ali Abdaal - 如何让2024成为最棒的一年｜人生复盘、目标设定和时间管理的3个方法，Ali Abdaal - 【提高执行力】用12周完成别人1年的工作量，高效备考技巧大师课：系统学习“如何学习”，提升理解+记忆+专注力，养成这5个习惯，你的成长速度会超越99%的人（顶尖的1%靠的不是自律），如何在90天内彻底改变自己？，Ali Abdaal - ✍️改变人生的3种日记写法｜日记改变人生的底层逻辑，以及5个简单的日记练习方法，Ali Abdaal - 如何无痛将效率提升300%？剑桥学霸的时间管理系统</description>
+    <pubDate>Sat, 31 Jan 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>🔥🧑🤖 Human-in-the-Loop漫谈与实践</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251209172831</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251209172831</guid>
-    <description>ByteTech</description>
-    <pubDate>Mon, 08 Dec 2025 16:00:00 GMT</pubDate>
+    <title>Area.生活</title>
+    <link>https://roam.gkzhb.top/02-Areas/20260131020219</link>
+    <guid>https://roam.gkzhb.top/02-Areas/20260131020219</guid>
+    <description> tags:: [[dyn.area_projs]].</description>
+    <pubDate>Fri, 30 Jan 2026 18:02:19 GMT</pubDate>
   </item>
     </channel>
   </rss>

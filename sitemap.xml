@@ -1,4 +1,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/001-%E5%AF%BC%E8%88%AA%E9%A1%B5/20250508192206</loc>
+    <lastmod>2025-05-07T18:23:16.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/20260121053733</loc>
+    <lastmod>2026-01-21T09:37:33.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/20260121054011</loc>
+    <lastmod>2026-01-21T09:40:11.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/20260201185945</loc>
+    <lastmod>2025-05-07T16:56:48.000Z</lastmod>
+  </url><url>
     <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/Antinet/%E4%B8%BB%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E8%A7%86%E5%9B%BE</loc>
     <lastmod>2025-05-11T01:58:03.000Z</lastmod>
   </url><url>
@@ -7,6 +19,9 @@
   </url><url>
     <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.tag_refs</loc>
     <lastmod>2025-05-07T16:06:14.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.task_todos</loc>
+    <lastmod>2026-01-29T06:58:26.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/PublicViews/20251216093149</loc>
     <lastmod>2025-12-16T13:31:49.000Z</lastmod>
@@ -23,8 +38,8 @@
     <loc>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%E8%A7%86%E5%9B%BE</loc>
     <lastmod>2025-05-11T01:56:04.000Z</lastmod>
   </url><url>
-    <loc>https://roam.gkzhb.top/01-Projects/20250419041210</loc>
-    <lastmod>2025-04-18T20:12:10.000Z</lastmod>
+    <loc>https://roam.gkzhb.top/01-Projects/011-Tasks/2026/02/20260204021451</loc>
+    <lastmod>2026-02-03T18:15:05.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/01-Projects/20250512010506</loc>
     <lastmod>2025-05-12T05:05:06.000Z</lastmod>
@@ -37,6 +52,12 @@
   </url><url>
     <loc>https://roam.gkzhb.top/01-Projects/20251116035827</loc>
     <lastmod>2025-11-16T07:58:27.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/01-Projects/20251231013101</loc>
+    <lastmod>2025-12-30T17:31:01.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/01-Projects/20260101053001</loc>
+    <lastmod>2026-01-01T09:30:01.360Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/01-Projects/Aider-Composer/Aider-Composer</loc>
     <lastmod>2025-03-27T18:45:15.000Z</lastmod>
@@ -109,6 +130,12 @@
   </url><url>
     <loc>https://roam.gkzhb.top/02-Areas/20250925032320</loc>
     <lastmod>2025-09-25T07:23:20.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/02-Areas/20251222032206</loc>
+    <lastmod>2025-12-22T07:22:06.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/02-Areas/20260131020219</loc>
+    <lastmod>2026-01-30T18:02:19.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/07/20250711212410</loc>
     <lastmod>2025-07-10T16:00:00.000Z</lastmod>
@@ -214,9 +241,6 @@
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/09/20250925152441</loc>
     <lastmod>2025-09-24T16:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251008105550</loc>
-    <lastmod>2025-10-08T14:55:50.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/10/20251009022237</loc>
     <lastmod>2025-10-08T18:22:37.000Z</lastmod>
@@ -392,6 +416,21 @@
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251216211121</loc>
     <lastmod>2025-12-15T16:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251222153832</loc>
+    <lastmod>2025-12-21T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251222153956</loc>
+    <lastmod>2025-12-21T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251230011627</loc>
+    <lastmod>2025-12-29T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251231010637</loc>
+    <lastmod>2025-12-30T17:06:37.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2025/12/20251231120649</loc>
+    <lastmod>2025-12-30T16:06:49.000Z</lastmod>
+  </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/202503311402</loc>
     <lastmod>2025-03-31T06:02:20.203Z</lastmod>
   </url><url>
@@ -412,6 +451,63 @@
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/20250705153837</loc>
     <lastmod>2025-07-04T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260101172250</loc>
+    <lastmod>2025-12-31T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260102231336</loc>
+    <lastmod>2026-01-01T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260106041459</loc>
+    <lastmod>2026-01-06T08:14:59.125Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260109141445</loc>
+    <lastmod>2026-01-08T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260112130508</loc>
+    <lastmod>2026-01-11T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260113001343</loc>
+    <lastmod>2026-01-12T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260113001523</loc>
+    <lastmod>2026-01-12T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260113010226</loc>
+    <lastmod>2026-01-12T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260113124359</loc>
+    <lastmod>2026-01-12T16:43:59.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260113125328</loc>
+    <lastmod>2026-01-12T16:53:28.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260114031909</loc>
+    <lastmod>2026-01-14T07:19:09.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260114174557</loc>
+    <lastmod>2026-01-13T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260118214229</loc>
+    <lastmod>2026-01-17T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260118220219</loc>
+    <lastmod>2026-01-17T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260118220612</loc>
+    <lastmod>2026-01-17T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260118234618</loc>
+    <lastmod>2026-01-17T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/01/20260121193711</loc>
+    <lastmod>2026-01-20T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260202025643</loc>
+    <lastmod>2026-02-01T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260204025053</loc>
+    <lastmod>2026-02-03T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/GitHub</loc>
     <lastmod>2025-04-16T16:00:00.000Z</lastmod>
@@ -707,6 +803,42 @@
     <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251212143712</loc>
     <lastmod>2025-12-11T16:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251219025637</loc>
+    <lastmod>2025-12-18T18:56:37.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251222153535</loc>
+    <lastmod>2025-12-21T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251225133349</loc>
+    <lastmod>2025-12-24T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251226023146</loc>
+    <lastmod>2025-12-25T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251226125722</loc>
+    <lastmod>2025-12-25T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251227004215</loc>
+    <lastmod>2025-12-26T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251227011048</loc>
+    <lastmod>2025-12-26T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251227015351</loc>
+    <lastmod>2025-12-26T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251227022642</loc>
+    <lastmod>2025-12-26T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251230011315</loc>
+    <lastmod>2025-12-29T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251230011433</loc>
+    <lastmod>2025-12-29T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2025/12/20251231164600</loc>
+    <lastmod>2025-12-30T16:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250504075351</loc>
     <lastmod>2025-05-04T11:53:51.000Z</lastmod>
   </url><url>
@@ -724,6 +856,27 @@
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/20250527111842</loc>
     <lastmod>2025-05-26T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260101162130</loc>
+    <lastmod>2025-12-31T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260105143145</loc>
+    <lastmod>2026-01-04T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260113144914</loc>
+    <lastmod>2026-01-12T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260115134249</loc>
+    <lastmod>2026-01-14T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260119013945</loc>
+    <lastmod>2026-01-18T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/01/20260128003525</loc>
+    <lastmod>2026-01-27T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260201032407</loc>
+    <lastmod>2026-01-31T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/Clippings/20250419200421</loc>
     <lastmod>2025-04-19T12:04:21.000Z</lastmod>
@@ -757,6 +910,18 @@
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20250917022707</loc>
     <lastmod>2025-09-16T18:27:07.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20251227020447</loc>
+    <lastmod>2025-12-26T18:04:47.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20251230011208</loc>
+    <lastmod>2025-12-29T17:12:08.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260101043758</loc>
+    <lastmod>2026-01-01T08:37:58.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260112024203</loc>
+    <lastmod>2026-01-12T06:42:03.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/%E5%8D%97%E6%80%80%E7%91%BE</loc>
     <lastmod>2025-03-09T18:44:45.000Z</lastmod>
@@ -805,6 +970,9 @@
   </url><url>
     <loc>https://roam.gkzhb.top/03-Resources/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/AI-Chrome-%E6%8F%92%E4%BB%B6</loc>
     <lastmod>2025-03-11T16:59:59.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/04-Archives/20250419041210</loc>
+    <lastmod>2025-04-18T20:12:10.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/04-Archives/20250529012920</loc>
     <lastmod>2025-05-28T17:29:20.000Z</lastmod>
@@ -1085,6 +1253,15 @@
     <loc>https://roam.gkzhb.top/05-ZettelNotes/2025/11/4.1d1a</loc>
     <lastmod>2025-11-30T13:47:10.000Z</lastmod>
   </url><url>
+    <loc>https://roam.gkzhb.top/05-ZettelNotes/2025/12/1.1a4</loc>
+    <lastmod>2025-12-25T15:23:48.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/05-ZettelNotes/2025/12/1.1a5</loc>
+    <lastmod>2025-12-25T15:41:46.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/05-ZettelNotes/2025/12/1.1a6</loc>
+    <lastmod>2025-12-25T16:19:04.000Z</lastmod>
+  </url><url>
     <loc>https://roam.gkzhb.top/05-ZettelNotes/2025/12/3.1a2d</loc>
     <lastmod>2025-12-12T18:44:59.000Z</lastmod>
   </url><url>
@@ -1250,6 +1427,9 @@
     <loc>https://roam.gkzhb.top/06-ZettelIndices/Index.%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95</loc>
     <lastmod>2025-09-09T16:34:59.000Z</lastmod>
   </url><url>
+    <loc>https://roam.gkzhb.top/06-ZettelIndices/keywords/K.%E5%90%9B%E5%AD%90%E4%B8%8D%E5%99%A8</loc>
+    <lastmod>2025-12-26T17:56:03.494Z</lastmod>
+  </url><url>
     <loc>https://roam.gkzhb.top/07-ZettelViews/20250420091956</loc>
     <lastmod>2025-04-20T01:19:56.000Z</lastmod>
   </url><url>
@@ -1258,6 +1438,18 @@
   </url><url>
     <loc>https://roam.gkzhb.top/11-AI-Prompts/20250906124346</loc>
     <lastmod>2025-09-05T16:43:46.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/12-Specs/20260201035414</loc>
+    <lastmod>2026-02-01T07:54:14.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/12-Specs/20260201035931</loc>
+    <lastmod>2026-02-01T07:59:31.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/12-Specs/20260201041846</loc>
+    <lastmod>2026-02-01T08:18:46.000Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/12-Specs/20260201184140</loc>
+    <lastmod>2026-02-01T07:26:10.000Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/Z-extras/templates/AI-Prompt-%E6%A8%A1%E6%9D%BF</loc>
     <lastmod>2025-06-25T16:21:10.691Z</lastmod>
@@ -1270,6 +1462,15 @@
   </url><url>
     <loc>https://roam.gkzhb.top/Z-extras/templates/PARA.Resource-%E6%A8%A1%E6%9D%BF</loc>
     <lastmod>2025-04-16T06:01:47.495Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/Z-extras/templates/base-template</loc>
+    <lastmod>2025-11-16T06:15:40.479Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/Z-extras/templates/spec-%E6%A8%A1%E6%9D%BF</loc>
+    <lastmod>2026-02-01T07:52:49.089Z</lastmod>
+  </url><url>
+    <loc>https://roam.gkzhb.top/Z-extras/templates/%E5%8A%A8%E6%80%81%E8%A7%86%E5%9B%BE%E6%A8%A1%E6%9D%BF</loc>
+    <lastmod>2025-11-16T06:17:40.764Z</lastmod>
   </url><url>
     <loc>https://roam.gkzhb.top/Z-extras/templates/%E7%81%B5%E6%84%9F%E8%AE%B0%E5%BD%95%E6%A8%A1%E6%9D%BF</loc>
     <lastmod>2025-04-06T07:18:55.165Z</lastmod>
