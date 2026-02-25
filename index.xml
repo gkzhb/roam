@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Task.Agent 系统初版设计</title>
-    <link>https://roam.gkzhb.top/01-Projects/011-Tasks/2026/02/20260204021451</link>
-    <guid>https://roam.gkzhb.top/01-Projects/011-Tasks/2026/02/20260204021451</guid>
-    <description>Proj.Agent 动态提示词工程 系统边界 初版系统不考虑 Agent system prompt 在会话过程中动态调整的功能。 UI 设计 用户输入 消息内容通过飞书机器人、网页端发送消息，甚至 opencode TUI 对话 工作目录位置 对于飞书机器人和网页端消息，工作目录位置如何选择？ 暂时写死为 ~/workspaces/sessions/&lt;date:YYYYMMDD-HHmmss&gt;/ 系统输出 最终执行结果消息内容通过机器人回复，或者网页中展示的形式呈现。 效果评估 网页端可添加按钮及评论、评分。 会话完成后可自动触发评估 Agent 进行评分。 debug 调试会...</description>
-    <pubDate>Tue, 03 Feb 2026 18:15:05 GMT</pubDate>
+    <title>Spec.AI 应用规范</title>
+    <link>https://roam.gkzhb.top/12-Specs/20260222112631</link>
+    <guid>https://roam.gkzhb.top/12-Specs/20260222112631</guid>
+    <description>基本原则 从基础的功能模块做起，让 AI 自主跑通，在模块内闭环，且可量化执行结果。.</description>
+    <pubDate>Sun, 22 Feb 2026 15:26:31 GMT</pubDate>
   </item><item>
-    <title>OpenClaw</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260204025053</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260204025053</guid>
-    <description>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</description>
-    <pubDate>Tue, 03 Feb 2026 16:00:00 GMT</pubDate>
-  </item><item>
-    <title>超级索尼子</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260202025643</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260202025643</guid>
-    <description>超级索尼子（そにアニ -SUPER SONICO THE ANIMATION-，Soni-Ani：Super Sonico the Animation）是由日本动画公司WHITE FOX制作的电视动画作品，于2014年1月6日播放，全12话。现正就读大学的超级索尼子，除了是个大学生，也担当游戏角色及从事写真偶像的工作，另外她还跟富士见铃、绵拔风璃一同组成了少女三人乐团「第一宇宙速度」并在其中担任主唱兼吉他手，从事音乐方面的活动，性格努力又坦率正直的她，认真的度过属於她的每一天。</description>
-    <pubDate>Sun, 01 Feb 2026 16:00:00 GMT</pubDate>
-  </item><item>
-    <title>Spec.目录划分规范</title>
-    <link>https://roam.gkzhb.top/12-Specs/20260201041846</link>
-    <guid>https://roam.gkzhb.top/12-Specs/20260201041846</guid>
-    <description>基本原则 目标一：优化文件列表性能 优化操作系统的文件系统性能及 Obsidian 文件列表的性能及可交互性 定义原则： 避免某个目录下出现上千个文件，出现文件无止境地膨胀 常用手段是使用创建日期目录划分，比如 2025/12/ 下存放 2025 年 12 月创建的笔记（使用 QuickAdd 插件可以实现） 目标二：便于通过目录寻找模块下笔记 让常用的笔记模块易于访问和使用 定义原则： 目录层级保持较低的嵌套，避免文件路径过长 为了以固定顺序排列一级目录，使用数字前缀命名，比如 00-视图/ 将不常用笔记模块组合放到统一目录下，避免一级目录数量膨胀 笔记模板配置，插件配置等笔记，放在 Z-e...</description>
-    <pubDate>Sun, 01 Feb 2026 08:18:46 GMT</pubDate>
-  </item><item>
-    <title>Spec.Bases 视图规范</title>
-    <link>https://roam.gkzhb.top/12-Specs/20260201035931</link>
-    <guid>https://roam.gkzhb.top/12-Specs/20260201035931</guid>
-    <description>Bases 规范 Tip 插件创建的 Bases 视图可以不遵循以下原则。 文件名：使用 db.</description>
-    <pubDate>Sun, 01 Feb 2026 07:59:31 GMT</pubDate>
-  </item><item>
-    <title>Spec.全局规范</title>
-    <link>https://roam.gkzhb.top/12-Specs/20260201035414</link>
-    <guid>https://roam.gkzhb.top/12-Specs/20260201035414</guid>
-    <description>定义整个笔记仓库都遵循的规范原则。 属性定义 title: string 定义笔记名称（可选），缺省时默认使用文件名作为笔记名称 archived: boolean 将过时笔记标记为归档状态，同时笔记名称添加字母 Z 前缀，使其在列表排序中靠后 publish: boolean 定义笔记是否发布到 web 网站上可被公开查看 type: string 笔记的实体类型，用于定义笔记对应到某种实体，比如人或自媒体 persion ，影视作品等 index: string 树状排序序号，使用数字+字母的组合，相同序号前缀表示相同的树路径 避免出现连续双数字或双字母的情况，如果出现这种情况说明树的划分...</description>
-    <pubDate>Sun, 01 Feb 2026 07:54:14 GMT</pubDate>
-  </item><item>
-    <title>Spec.</title>
-    <link>https://roam.gkzhb.top/Z-extras/templates/spec-%E6%A8%A1%E6%9D%BF</link>
-    <guid>https://roam.gkzhb.top/Z-extras/templates/spec-%E6%A8%A1%E6%9D%BF</guid>
-    <description></description>
-    <pubDate>Sun, 01 Feb 2026 07:52:49 GMT</pubDate>
-  </item><item>
-    <title>Spec.Obsidian 笔记规范</title>
-    <link>https://roam.gkzhb.top/12-Specs/20260201184140</link>
-    <guid>https://roam.gkzhb.top/12-Specs/20260201184140</guid>
-    <description>[[dyn.menu]] 记录本仓库的笔记格式规范。 所有规范笔记使用 spec 标签，放在 12-Specs/ 目录下。 规范概览 Transclude of db.specs.base.</description>
-    <pubDate>Sun, 01 Feb 2026 07:26:10 GMT</pubDate>
-  </item><item>
-    <title>都2025啦，请你摆脱Flag陷阱，用系统思维悄悄实现你的年度计划！_哔哩哔哩_bilibili</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260201032407</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260201032407</guid>
-    <description>👋嘿朋友们，你是否又再满怀希望设定一年的目标，同时担心这些目标再次成为年末通通倒下的flag？那么本期视频给大家介绍5个非常简单好记好实操的策略，帮助你切切实实地落实到每天的行动，足额甚至超额完成你的目标！, 视频播放量 52125、弹幕量 42、点赞数 2489、投硬币枚数 920、收藏人数 3954、转发人数 381, 视频作者 AliAbdaal, 作者简介 Ali Abdaal官方账号剑桥大学➡️医生➡️效率达人➡️创业➡️NYT畅销书作家，相关视频：Ali Abdaal给学生的21条建议💡｜别把学习太当回事，社交焦虑，如何应对困难，被动收入，Ali Abdaal - 找回人生掌控感的第一步：反向操纵多巴胺💥戒瘾、拯救无力感，【静静教主】如何高效制定年计划｜8个步骤搞定｜手把手演示｜附模版，Ali Abdaal - 如何让2024成为最棒的一年｜人生复盘、目标设定和时间管理的3个方法，Ali Abdaal - 【提高执行力】用12周完成别人1年的工作量，高效备考技巧大师课：系统学习“如何学习”，提升理解+记忆+专注力，养成这5个习惯，你的成长速度会超越99%的人（顶尖的1%靠的不是自律），如何在90天内彻底改变自己？，Ali Abdaal - ✍️改变人生的3种日记写法｜日记改变人生的底层逻辑，以及5个简单的日记练习方法，Ali Abdaal - 如何无痛将效率提升300%？剑桥学霸的时间管理系统</description>
-    <pubDate>Sat, 31 Jan 2026 16:00:00 GMT</pubDate>
-  </item><item>
-    <title>Area.生活</title>
-    <link>https://roam.gkzhb.top/02-Areas/20260131020219</link>
-    <guid>https://roam.gkzhb.top/02-Areas/20260131020219</guid>
+    <title>Area.自建服务</title>
+    <link>https://roam.gkzhb.top/02-Areas/20260222045607</link>
+    <guid>https://roam.gkzhb.top/02-Areas/20260222045607</guid>
     <description> tags:: [[dyn.area_projs]].</description>
-    <pubDate>Fri, 30 Jan 2026 18:02:19 GMT</pubDate>
+    <pubDate>Sun, 22 Feb 2026 08:56:07 GMT</pubDate>
+  </item><item>
+    <title>Res.giffguff 手机号</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222041810</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222041810</guid>
+    <description> tags:: 保号方式 每半年需要有一次余额变动。 通过发送短信进行消耗： 发送任意短信内容给英国手机客服热线 +44 7973 000186 之后会从 giffguff 收到余额变动的短信提醒，也可以第二天去 giffguff 网站上查询余额变更记录去确认。.</description>
+    <pubDate>Sun, 22 Feb 2026 08:18:10 GMT</pubDate>
+  </item><item>
+    <title>authentik</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222165952</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222165952</guid>
+    <description>The authentication glue you need. Contribute to goauthentik/authentik development by creating an account on GitHub.</description>
+    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>Capability Evolver</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222181200</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222181200</guid>
+    <description>The Self-Evolving Agent Protocol (PCEC). It writes its own code. - autogame-17/evolver</description>
+    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lenia Project</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222201719</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222201719</guid>
+    <description>Everything about Lenia - videos, papers, code, talks, timeline, research</description>
+    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>uv2nix</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231440</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231440</guid>
+    <description> tags:: Nix source:: Getting started - uv2nix 在 NixOS 中搭建 uv python 开发环境。 走通 playwright 和 crawl4ai 的 nix flake 配置 uv monorepo 配置： sciexp/python-nix-template: ❄️ nix template for python monorepos +/- rust pyo3 extension modules with flake-parts, uv2nix, and crane 🐍 .</description>
+    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>再刷是狗专栏文章-文集-哔哩哔哩视频</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231650</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231650</guid>
+    <description>哔哩哔哩再刷是狗的个人空间，提供再刷是狗分享的视频、音频、文章、动态、收藏等内容，关注再刷是狗账号，第一时间了解UP主动态。每次看到那些推送我都有一种强烈的感觉：这算法是纯把我当傻子看了。</description>
+    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220172134</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220172134</guid>
+    <description>「记住」每次探索的经验，在多个探索轨迹之间传递经验，实现渐进式的智能搜索。</description>
+    <pubDate>Thu, 19 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>ClawHub迷之封杀操作，逼出首个Agent全球进化网络</title>
+    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220173224</link>
+    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220173224</guid>
+    <description>让跨领域的智慧以“基因”的形式流动</description>
+    <pubDate>Thu, 19 Feb 2026 16:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
