@@ -3,68 +3,68 @@
     <channel>
       <title>gkzhb 花园</title>
       <link>https://roam.gkzhb.top</link>
-      <description>最近的10条笔记 on gkzhb 花园</description>
+      <description>Last 10 notes on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>dyn.daily_journal_info</title>
-    <link>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.daily_journal_info</link>
-    <guid>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.daily_journal_info</guid>
-    <description>今日创建笔记 filters: and: - file.ctime.date() == this[&quot;日期&quot;] - file.path != this.file.path formulas: 名称: file.asLink(title) properties: formula.名称: displayName: 名称 views: - type: table name: 关联项目 order: - formula.名称.</description>
-    <pubDate>Fri, 12 Jun 2026 05:00:53 GMT</pubDate>
+    <title>2025-09-29_canvas坐标计算</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/2025-09-29_canvas%E5%9D%90%E6%A0%87%E8%AE%A1%E7%AE%97.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/2025-09-29_canvas%E5%9D%90%E6%A0%87%E8%AE%A1%E7%AE%97.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>tinytuya</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612003344</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612003344</guid>
-    <description>Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API). - jasonacox/tinytuya</description>
-    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+    <title>AI介绍</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/ai%E4%BB%8B%E7%BB%8D.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/ai%E4%BB%8B%E7%BB%8D.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>永生符号 VS 有限生命符号</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612133340</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612133340</guid>
-    <description> tags:: source:: 永生符号 VS 有限生命符号 .</description>
-    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+    <title>Agent记忆库</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/agent%E8%AE%B0%E5%BF%86%E5%BA%93.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/agent%E8%AE%B0%E5%BF%86%E5%BA%93.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>公众号排版、封面生成、发布</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612150821</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612150821</guid>
-    <description>一句&quot;排版这篇文章&quot;，从到发布到草稿箱，整个过程大概也就2-3分钟。</description>
-    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
+    <title>Draw.Mindmap</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/draw.mindmap.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/draw.mindmap.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>InfoQ</title>
-    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020314</link>
-    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020314</guid>
-    <description></description>
-    <pubDate>Wed, 10 Jun 2026 06:03:14 GMT</pubDate>
+    <title>Drawing 2025-03-30 23.50.36</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/drawing-2025-03-30-23.50.36.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/drawing-2025-03-30-23.50.36.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>刘润</title>
-    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020101</link>
-    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020101</guid>
-    <description></description>
-    <pubDate>Wed, 10 Jun 2026 06:01:01 GMT</pubDate>
+    <title>Drawing 2025-04-07 13.30.24</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/drawing-2025-04-07-13.30.24.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/drawing-2025-04-07-13.30.24.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>K.教程</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015928</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015928</guid>
-    <description> tags:: .</description>
-    <pubDate>Wed, 10 Jun 2026 05:59:28 GMT</pubDate>
+    <title>autope-prompt更新流程</title>
+    <link>https://roam.gkzhb.top/z-assets/excalidraws/autope-prompt%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B.excalidraw</link>
+    <guid>https://roam.gkzhb.top/z-assets/excalidraws/autope-prompt%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B.excalidraw</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>Res.叹气的亡灵想隐退</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015722</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015722</guid>
-    <description> tags:: 包括小说、漫画和动画.</description>
-    <pubDate>Wed, 10 Jun 2026 05:57:22 GMT</pubDate>
+    <title>视图</title>
+    <link>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE</link>
+    <guid>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>wx-cli</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610131418</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610131418</guid>
-    <description>WeChat local data CLI with daemon architecture. Contribute to jackwener/wx-cli development by creating an account on GitHub.</description>
-    <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+    <title>视图/导航页</title>
+    <link>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE/%E5%AF%BC%E8%88%AA%E9%A1%B5</link>
+    <guid>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE/%E5%AF%BC%E8%88%AA%E9%A1%B5</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item><item>
-    <title>incur CLI framework</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610134751</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610134751</guid>
-    <description>CLI framework for agents and humans. Contribute to wevm/incur development by creating an account on GitHub.</description>
-    <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+    <title>视图/动态视图</title>
+    <link>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE/%E5%8A%A8%E6%80%81%E8%A7%86%E5%9B%BE</link>
+    <guid>https://roam.gkzhb.top/tags/%E8%A7%86%E5%9B%BE/%E5%8A%A8%E6%80%81%E8%A7%86%E5%9B%BE</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 11:03:01 GMT</pubDate>
   </item>
     </channel>
   </rss>
