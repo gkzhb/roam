@@ -15,16 +15,15 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "dev": "npx quartz build --serve -d ~/Obsidian/trial-vault --port 8980 --concurrency=16 --watch",
-    "post-build": "cp ./vercel.json ./public/",
-    "build": "npx quartz build -d ~/Obsidian/trial-vault --concurrency=16 && npm run post-build",
+    "build": "npx quartz build -d ~/Obsidian/trial-vault --concurrency=16",
+    "postbuild": "cp ./vercel.json ./public/",
     "deploy": "./deploy.sh",
     "sync": "npm run build && npm run deploy",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts"
   },
   "engines": {
     "npm": ">=10.9.2",
