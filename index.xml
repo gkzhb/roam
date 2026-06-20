@@ -6,65 +6,65 @@
       <description>最近的10条笔记 on gkzhb 花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Spec.AI 应用规范</title>
-    <link>https://roam.gkzhb.top/12-Specs/20260222112631</link>
-    <guid>https://roam.gkzhb.top/12-Specs/20260222112631</guid>
-    <description>基本原则 从基础的功能模块做起，让 AI 自主跑通，在模块内闭环，且可量化执行结果。.</description>
-    <pubDate>Sun, 22 Feb 2026 15:26:31 GMT</pubDate>
+    <title>dyn.daily_journal_info</title>
+    <link>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.daily_journal_info</link>
+    <guid>https://roam.gkzhb.top/00-%E8%A7%86%E5%9B%BE/DynamicViews/dyn.daily_journal_info</guid>
+    <description>今日创建笔记 filters: and: - file.ctime.date() == this[&quot;日期&quot;] - file.path != this.file.path formulas: 名称: file.asLink(title) properties: formula.名称: displayName: 名称 views: - type: table name: 关联项目 order: - formula.名称.</description>
+    <pubDate>Fri, 12 Jun 2026 05:00:53 GMT</pubDate>
   </item><item>
-    <title>Area.自建服务</title>
-    <link>https://roam.gkzhb.top/02-Areas/20260222045607</link>
-    <guid>https://roam.gkzhb.top/02-Areas/20260222045607</guid>
-    <description> tags:: [[dyn.area_projs]].</description>
-    <pubDate>Sun, 22 Feb 2026 08:56:07 GMT</pubDate>
+    <title>tinytuya</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612003344</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612003344</guid>
+    <description>Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API). - jasonacox/tinytuya</description>
+    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Res.giffguff 手机号</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222041810</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222041810</guid>
-    <description> tags:: 保号方式 每半年需要有一次余额变动。 通过发送短信进行消耗： 发送任意短信内容给英国手机客服热线 +44 7973 000186 之后会从 giffguff 收到余额变动的短信提醒，也可以第二天去 giffguff 网站上查询余额变更记录去确认。.</description>
-    <pubDate>Sun, 22 Feb 2026 08:18:10 GMT</pubDate>
+    <title>永生符号 VS 有限生命符号</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612133340</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612133340</guid>
+    <description> tags:: source:: 永生符号 VS 有限生命符号 .</description>
+    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>authentik</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222165952</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222165952</guid>
-    <description>The authentication glue you need. Contribute to goauthentik/authentik development by creating an account on GitHub.</description>
-    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+    <title>公众号排版、封面生成、发布</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612150821</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260612150821</guid>
+    <description>一句&quot;排版这篇文章&quot;，从到发布到草稿箱，整个过程大概也就2-3分钟。</description>
+    <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>Capability Evolver</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222181200</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222181200</guid>
-    <description>The Self-Evolving Agent Protocol (PCEC). It writes its own code. - autogame-17/evolver</description>
-    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+    <title>InfoQ</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020314</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020314</guid>
+    <description></description>
+    <pubDate>Wed, 10 Jun 2026 06:03:14 GMT</pubDate>
   </item><item>
-    <title>Lenia Project</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222201719</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222201719</guid>
-    <description>Everything about Lenia - videos, papers, code, talks, timeline, research</description>
-    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+    <title>刘润</title>
+    <link>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020101</link>
+    <guid>https://roam.gkzhb.top/03-Resources/%E4%BA%BA/20260610020101</guid>
+    <description></description>
+    <pubDate>Wed, 10 Jun 2026 06:01:01 GMT</pubDate>
   </item><item>
-    <title>uv2nix</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231440</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231440</guid>
-    <description> tags:: Nix source:: Getting started - uv2nix 在 NixOS 中搭建 uv python 开发环境。 走通 playwright 和 crawl4ai 的 nix flake 配置 uv monorepo 配置： sciexp/python-nix-template: ❄️ nix template for python monorepos +/- rust pyo3 extension modules with flake-parts, uv2nix, and crane 🐍 .</description>
-    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+    <title>K.教程</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015928</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015928</guid>
+    <description> tags:: .</description>
+    <pubDate>Wed, 10 Jun 2026 05:59:28 GMT</pubDate>
   </item><item>
-    <title>再刷是狗专栏文章-文集-哔哩哔哩视频</title>
-    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231650</link>
-    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/02/20260222231650</guid>
-    <description>哔哩哔哩再刷是狗的个人空间，提供再刷是狗分享的视频、音频、文章、动态、收藏等内容，关注再刷是狗账号，第一时间了解UP主动态。每次看到那些推送我都有一种强烈的感觉：这算法是纯把我当傻子看了。</description>
-    <pubDate>Sat, 21 Feb 2026 16:00:00 GMT</pubDate>
+    <title>Res.叹气的亡灵想隐退</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015722</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610015722</guid>
+    <description> tags:: 包括小说、漫画和动画.</description>
+    <pubDate>Wed, 10 Jun 2026 05:57:22 GMT</pubDate>
   </item><item>
-    <title>让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220172134</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220172134</guid>
-    <description>「记住」每次探索的经验，在多个探索轨迹之间传递经验，实现渐进式的智能搜索。</description>
-    <pubDate>Thu, 19 Feb 2026 16:00:00 GMT</pubDate>
+    <title>wx-cli</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610131418</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610131418</guid>
+    <description>WeChat local data CLI with daemon architecture. Contribute to jackwener/wx-cli development by creating an account on GitHub.</description>
+    <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
   </item><item>
-    <title>ClawHub迷之封杀操作，逼出首个Agent全球进化网络</title>
-    <link>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220173224</link>
-    <guid>https://roam.gkzhb.top/03-Resources/C-ZK_Inbox/2026/02/20260220173224</guid>
-    <description>让跨领域的智慧以“基因”的形式流动</description>
-    <pubDate>Thu, 19 Feb 2026 16:00:00 GMT</pubDate>
+    <title>incur CLI framework</title>
+    <link>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610134751</link>
+    <guid>https://roam.gkzhb.top/03-Resources/A-%E6%9C%AA%E5%88%86%E7%B1%BB/2026/06/20260610134751</guid>
+    <description>CLI framework for agents and humans. Contribute to wevm/incur development by creating an account on GitHub.</description>
+    <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
