@@ -142,6 +142,8 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
+      rssLimit: 30
+      rssFullHtml: true
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
@@ -149,7 +151,7 @@ plugins:
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
@@ -161,6 +163,8 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      folderClickBehavior: collapse
   - source: github:quartz-community/graph
     enabled: true
     layout:
@@ -232,7 +236,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       limit: 15
       showTags: true
@@ -275,7 +279,7 @@ plugins:
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
